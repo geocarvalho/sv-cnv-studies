@@ -3,9 +3,10 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 
 # Background CNV and SV
 
-# Genome approach
-
 # Exome approach
+
+# Genome approach
+* [LUMPY: a probabilistic framework for structural variant discovery](http://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-6-r84) - [github](https://github.com/arq5x/lumpy-sv)
 
 # Target sequencing approach
 
