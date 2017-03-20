@@ -10,6 +10,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [Manta: rapid detection of structural variants and indels for germline and cancer sequencing applications](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv710) - [github](https://github.com/Illumina/manta)
 * [Wham: Identifying Structural Variants of Biological Consequence](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004572) - [github](https://github.com/zeeev/wham)
 * [SV2: Accurate Structural Variation Genotyping and De Novo Mutation Detection](http://biorxiv.org/content/early/2017/03/17/113498) - [github](https://github.com/dantaki/SV2)
+* FindSV - [github](https://github.com/J35P312/FindSV)
 # Target sequencing approach
 
 # Annotation
