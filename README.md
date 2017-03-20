@@ -1,5 +1,5 @@
 # CNV and SV papers in NGS
-Relevant studys with Structual Variants in NGS (Genome, Exome and Target Sequencing) pipelines.
+Relevant studies with Structual Variants in NGS (Genome, Exome and Target Sequencing) pipelines.
 
 # Genome approach
 
