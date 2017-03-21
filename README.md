@@ -7,8 +7,8 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 ## WES
 
 ## WGS
-* [FindSV](https://github.com/J35P312/FindSV)
-* [SvABA - Structural variation and indel analysis by assembly](https://github.com/walaj/svaba)
+* [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
+* [SvABA](https://github.com/walaj/svaba) - Structural variation and indel analysis by assembly
 * [2014 LUMPY: a probabilistic framework for structural variant discovery](http://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-6-r84) - [github](https://github.com/arq5x/lumpy-sv)
 * [2015 Wham: Identifying Structural Variants of Biological Consequence](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004572) - [github](https://github.com/zeeev/wham) - [mergeSVcallers](https://github.com/zeeev/mergeSVcallers)
 * [2016 Manta: rapid detection of structural variants and indels for germline and cancer sequencing applications](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv710) - [github](https://github.com/Illumina/manta)
@@ -21,12 +21,12 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 SVScore: an impact prediction tool for structural variation](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw789/2748212/SVScore-an-impact-prediction-tool-for-structural) - [github](https://github.com/lganel/SVScore)
 
 ## Visualization
-* [CNVplot](https://github.com/dantaki/CNVplot)
-* [cnvgram - Draw CNV diagrams](https://github.com/cc2qe/cnvgram)
+* [CNVplot](https://github.com/dantaki/CNVplot): Plot CNV data with a genome viewer in R
+* [cnvgram](https://github.com/cc2qe/cnvgram) - Draw CNV diagrams
 * [Stupid Simple Structural Variant View](https://github.com/ryanlayer/svv)
-* [CNView](https://github.com/RCollins13/CNView)
+* [CNView](https://github.com/RCollins13/CNView): Visualization, quantitation, and annotation of CNVs from population-scale whole-genome sequencing data
 * [2015 svviz: a read viewer for validating structural variants](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv478) - [github](https://github.com/svviz/svviz)
 
 ## Others
-* [SVsim: a tool that generates synthetic Structural Variant calls as benchmarks to test/evaluate SV calling pipelines](https://github.com/GregoryFaust/SVsim)
-* [Structural Variant Catalog: A repository for human genetic structural variants (SVs) discovered by Delly in the 1000 Genomes cohort of samples](https://github.com/tobiasrausch/svcatalog)
+* [SVsim](https://github.com/GregoryFaust/SVsim): a tool that generates synthetic Structural Variant calls as benchmarks to test/evaluate SV calling pipelines
+* [Structural Variant Catalog](https://github.com/tobiasrausch/svcatalog): A repository for human genetic structural variants (SVs) discovered by Delly in the 1000 Genomes cohort of samples
