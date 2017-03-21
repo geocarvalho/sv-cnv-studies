@@ -7,7 +7,8 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 ## WES
 
 ## WGS
-* FindSV - [github](https://github.com/J35P312/FindSV)
+* [FindSV](https://github.com/J35P312/FindSV)
+* [SvABA - Structural variation and indel analysis by assembly](https://github.com/walaj/svaba)
 * [2014 LUMPY: a probabilistic framework for structural variant discovery](http://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-6-r84) - [github](https://github.com/arq5x/lumpy-sv)
 * [2015 Wham: Identifying Structural Variants of Biological Consequence](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004572) - [github](https://github.com/zeeev/wham) - [mergeSVcallers](https://github.com/zeeev/mergeSVcallers)
 * [2016 Manta: rapid detection of structural variants and indels for germline and cancer sequencing applications](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv710) - [github](https://github.com/Illumina/manta)
@@ -22,7 +23,10 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 ## Visualization
 * [CNVplot](https://github.com/dantaki/CNVplot)
 * [cnvgram - Draw CNV diagrams](https://github.com/cc2qe/cnvgram)
+* [Stupid Simple Structural Variant View](https://github.com/ryanlayer/svv)
+* [CNView](https://github.com/RCollins13/CNView)
 * [2015 svviz: a read viewer for validating structural variants](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv478) - [github](https://github.com/svviz/svviz)
 
 ## Others
 * [SVsim: a tool that generates synthetic Structural Variant calls as benchmarks to test/evaluate SV calling pipelines](https://github.com/GregoryFaust/SVsim)
+* [Structural Variant Catalog: A repository for human genetic structural variants (SVs) discovered by Delly in the 1000 Genomes cohort of samples](https://github.com/tobiasrausch/svcatalog)
