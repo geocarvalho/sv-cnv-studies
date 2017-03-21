@@ -15,4 +15,4 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 
 ## Annotation
 * [2016 SVScore: an impact prediction tool for structural variation](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw789/2748212/SVScore-an-impact-prediction-tool-for-structural) - [github](https://github.com/lganel/SVScore)
-* SVTyper - [github](https://github.com/hall-lab/svtyper)
+* [SpeedSeq: ultra-fast personal genome analysis and interpretation](http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3505.html) - SVTyper - [github](https://github.com/hall-lab/svtyper)
