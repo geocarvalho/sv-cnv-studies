@@ -2,6 +2,7 @@
 Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome, Exome and Target Sequencing) pipelines.
 
 ## Background CNV and SV
+* [2016 Frequency and Complexity of De Novo Structural Mutation in Autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4833290/)
 
 ## WES
 
@@ -19,4 +20,9 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 SVScore: an impact prediction tool for structural variation](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw789/2748212/SVScore-an-impact-prediction-tool-for-structural) - [github](https://github.com/lganel/SVScore)
 
 ## Visualization
+* [CNVplot](https://github.com/dantaki/CNVplot)
+* [cnvgram - Draw CNV diagrams](https://github.com/cc2qe/cnvgram)
 * [2015 svviz: a read viewer for validating structural variants](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv478) - [github](https://github.com/svviz/svviz)
+
+## Others
+* [SVsim: a tool that generates synthetic Structural Variant calls as benchmarks to test/evaluate SV calling pipelines](https://github.com/GregoryFaust/SVsim)
