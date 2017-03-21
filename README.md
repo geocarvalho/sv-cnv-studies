@@ -27,6 +27,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [Stupid Simple Structural Variant View](https://github.com/ryanlayer/svv): A two-step process that can help visualize the coverage near a variant across multiple BAMs.
 * [CNView](https://github.com/RCollins13/CNView): Visualization, quantitation, and annotation of CNVs from population-scale whole-genome sequencing data.
 * [2015 svviz: a read viewer for validating structural variants](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv478) - [github](https://github.com/svviz/svviz)
+* [2016 Ribbon: Visualizing complex genome alignments and structural variation](http://biorxiv.org/content/early/2016/10/20/082123) - [github](https://github.com/MariaNattestad/Ribbon)
 
 ## Others
 * [SVsim](https://github.com/GregoryFaust/SVsim): a tool that generates synthetic Structural Variant calls as benchmarks to test/evaluate SV calling pipelines.
