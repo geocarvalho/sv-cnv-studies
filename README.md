@@ -3,6 +3,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 
 ## Background CNV and SV
 * [2016 Frequency and Complexity of De Novo Structural Mutation in Autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4833290/)
+* [2016 Evaluation of somatic copy number estimation tools for whole-exome sequencing data ](https://academic.oup.com/bib/article-abstract/17/2/185/1744035/Evaluation-of-somatic-copy-number-estimation-tools?redirectedFrom=fulltext)
 
 ## WES
 
