@@ -6,7 +6,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2015 Allele-specific copy-number discovery from whole-genome and whole-exome sequencing](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv319)
 * [2016 Frequency and Complexity of De Novo Structural Mutation in Autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4833290/)
 * [2016 Evaluation of somatic copy number estimation tools for whole-exome sequencing data ](https://academic.oup.com/bib/article-abstract/17/2/185/1744035/Evaluation-of-somatic-copy-number-estimation-tools?redirectedFrom=fulltext)
-
+* [2016 Assessing the reproducibility of exome copy number variations predictions](http://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0336-6)
 
 ## WES
 
