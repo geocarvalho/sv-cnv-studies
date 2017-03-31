@@ -13,7 +13,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 CLImAT-HET: detecting subclonal copy number alterations and loss of heterozygosity in heterogeneous tumor samples from whole-genome sequencing data]()
 
 ## WES
-
+* [2016 https://academic.oup.com/nar/article/44/20/e154/2607979/Enhanced-copy-number-variants-detection-from-whole](https://academic.oup.com/nar/article/44/20/e154/2607979/Enhanced-copy-number-variants-detection-from-whole)
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
 * [SvABA](https://github.com/walaj/svaba): Structural variation and indel analysis by assembly.
