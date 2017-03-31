@@ -3,6 +3,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 
 ## Background CNV and SV
 * [2014 An Evaluation of Copy Number Variation Detection Tools from Whole-Exome Sequencing Data](http://onlinelibrary.wiley.com/doi/10.1002/humu.22537/abstract)
+* [2014 Refining analyses of copy number variation identifies specific genes associated with developmental delay](http://www.nature.com/ng/journal/v46/n10/abs/ng.3092.html)
 * [2015 Allele-specific copy-number discovery from whole-genome and whole-exome sequencing](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv319)
 * [2016 Frequency and Complexity of De Novo Structural Mutation in Autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4833290/)
 * [2016 Evaluation of somatic copy number estimation tools for whole-exome sequencing data ](https://academic.oup.com/bib/article-abstract/17/2/185/1744035/Evaluation-of-somatic-copy-number-estimation-tools?redirectedFrom=fulltext)
@@ -10,9 +11,11 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 Sacral agenesis: a pilot whole exome sequencing and copy number study](http://bmcmedgenet.biomedcentral.com/articles/10.1186/s12881-016-0359-2)
 * [2016 Assessing the reproducibility of exome copy number variations predictions](http://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0336-6)
 * [2016 Statistical models for DNA copy number variation detection using read-depth data from next generation sequencing experiments](http://onlinelibrary.wiley.com/doi/10.1111/anzs.12175/abstract)
+* [2016 Patterns of genic intolerance of rare copy number variation in 59,898 human exomes](http://www.nature.com/ng/journal/v48/n10/abs/ng.3638.html)
 * [2017 CLImAT-HET: detecting subclonal copy number alterations and loss of heterozygosity in heterogeneous tumor samples from whole-genome sequencing data]()
 
 ## WES
+* [2015 CODEX: a normalization and copy number variation detection method for whole exome sequencing](https://academic.oup.com/nar/article/43/6/e39/2453417/CODEX-a-normalization-and-copy-number-variation)
 * [2016 https://academic.oup.com/nar/article/44/20/e154/2607979/Enhanced-copy-number-variants-detection-from-whole](https://academic.oup.com/nar/article/44/20/e154/2607979/Enhanced-copy-number-variants-detection-from-whole)
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
