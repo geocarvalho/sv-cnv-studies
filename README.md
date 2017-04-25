@@ -13,11 +13,13 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 Assessing the reproducibility of exome copy number variations predictions](http://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0336-6)
 * [2016 Statistical models for DNA copy number variation detection using read-depth data from next generation sequencing experiments](http://onlinelibrary.wiley.com/doi/10.1111/anzs.12175/abstract)
 * [2016 Patterns of genic intolerance of rare copy number variation in 59,898 human exomes](http://www.nature.com/ng/journal/v48/n10/abs/ng.3638.html)
-* [2017 CLImAT-HET: detecting subclonal copy number alterations and loss of heterozygosity in heterogeneous tumor samples from whole-genome sequencing data]()
+* [2017 CLImAT-HET: detecting subclonal copy number alterations and loss of heterozygosity in heterogeneous tumor samples from whole-genome sequencing data](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-017-0255-4)
 
 ## WES
 * [2015 CODEX: a normalization and copy number variation detection method for whole exome sequencing](https://academic.oup.com/nar/article/43/6/e39/2453417/CODEX-a-normalization-and-copy-number-variation)
 * [2016 Enhanced copy number variants detection from whole-exome sequencing data using EXCAVATOR2](https://academic.oup.com/nar/article/44/20/e154/2607979/Enhanced-copy-number-variants-detection-from-whole)
+* [2016 CLAMMS: a scalable algorithm for calling common and rare copy number variants from exome sequencing data](https://academic.oup.com/bioinformatics/article/32/1/133/1743911/CLAMMS-a-scalable-algorithm-for-calling-common-and) - [github](https://github.com/rgcgithub/clamms)
+
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
 * [SvABA](https://github.com/walaj/svaba): Structural variation and indel analysis by assembly.
