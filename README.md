@@ -14,6 +14,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 Statistical models for DNA copy number variation detection using read-depth data from next generation sequencing experiments](http://onlinelibrary.wiley.com/doi/10.1111/anzs.12175/abstract)
 * [2016 Patterns of genic intolerance of rare copy number variation in 59,898 human exomes](http://www.nature.com/ng/journal/v48/n10/abs/ng.3638.html)
 * [2017 CLImAT-HET: detecting subclonal copy number alterations and loss of heterozygosity in heterogeneous tumor samples from whole-genome sequencing data](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-017-0255-4)
+* [2017 Profiling copy number variation and disease associations from 50,726 DiscovEHR Study exomes](http://biorxiv.org/content/early/2017/03/22/119461)
 
 ## WES
 * [2015 CODEX: a normalization and copy number variation detection method for whole exome sequencing](https://academic.oup.com/nar/article/43/6/e39/2453417/CODEX-a-normalization-and-copy-number-variation)
