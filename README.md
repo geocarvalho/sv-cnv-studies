@@ -1,5 +1,5 @@
 # CNV and SV papers in NGS
-Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome, Exome and Target Sequencing) pipelines.
+Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome, Exome and Amplicon Sequencing) pipelines.
 ---
 
 ## Background CNV and SV
@@ -34,7 +34,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 Manta: rapid detection of structural variants and indels for germline and cancer sequencing applications](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv710) - [github](https://github.com/Illumina/manta)
 * [2017 SV2: Accurate Structural Variation Genotyping and De Novo Mutation Detection](http://biorxiv.org/content/early/2017/03/17/113498) - [github](https://github.com/dantaki/SV2)
 * [2017 GRIDSS: sensitive and specific genomic rearrangement detection using positional de Bruijn graph assembly](http://biorxiv.org/content/early/2017/02/21/110387) - [github](https://github.com/PapenfussLab/gridss)
-## TS 
+## AS 
 * [2017 SeqCNV: a novel method for identification of copy number variations in targeted next-generation sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1566-3)
 * [2016 Accurate clinical detection of exon copy number variants in a targeted NGS panel using DECoN](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5409526/)
 * [2012 A robust model for read count data in exome sequencing experiments and implications for copy number variant calling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476336/)
