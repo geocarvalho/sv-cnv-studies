@@ -17,6 +17,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 Patterns of genic intolerance of rare copy number variation in 59,898 human exomes](http://www.nature.com/ng/journal/v48/n10/abs/ng.3638.html)
 * [2017 CLImAT-HET: detecting subclonal copy number alterations and loss of heterozygosity in heterogeneous tumor samples from whole-genome sequencing data](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-017-0255-4)
 * [2017 Profiling copy number variation and disease associations from 50,726 DiscovEHR Study exomes](http://biorxiv.org/content/early/2017/03/22/119461)
+* [2017 Validation of copy number variation analysis for next-generation sequencing diagnostics](http://dx.doi.org/10.1038/ejhg.2017.42)
 
 ## WES
 * [2015 CODEX: a normalization and copy number variation detection method for whole exome sequencing](https://academic.oup.com/nar/article/43/6/e39/2453417/CODEX-a-normalization-and-copy-number-variation)
@@ -35,8 +36,13 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 SV2: Accurate Structural Variation Genotyping and De Novo Mutation Detection](http://biorxiv.org/content/early/2017/03/17/113498) - [github](https://github.com/dantaki/SV2)
 * [2017 GRIDSS: sensitive and specific genomic rearrangement detection using positional de Bruijn graph assembly](http://biorxiv.org/content/early/2017/02/21/110387) - [github](https://github.com/PapenfussLab/gridss)
 ## AS 
+* [2017 An enhanced method for targeted next generation sequencing copy number variant detection using ExomeDepth](https://wellcomeopenresearch.org/articles/2-49/v1)
+* [2017 panelcn.MOPS: Copy-number detection in targeted NGS panel data for clinical diagnostics](http://dx.doi.org/10.1002/humu.23237)
+* [2017 SeqCNV: a novel method for identification of copy number variations in targeted next-generation sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1566-3)
 * [2017 SeqCNV: a novel method for identification of copy number variations in targeted next-generation sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1566-3)
 * [2016 Accurate clinical detection of exon copy number variants in a targeted NGS panel using DECoN](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5409526/)
+* [2016 CoNVaDING: Single Exon Variation Detection in Targeted NGS Data](http://onlinelibrary.wiley.com/doi/10.1002/humu.22969/abstract?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+7th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+08.00+EDT+%2F+13.00+BST+%2F+17%3A30+IST+%2F+20.00+SGT+and+Sunday+8th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+06.00+EDT+%2F+11.00+BST+%2F+15%3A30+IST+%2F+18.00+SGT+for+essential+maintenance.+Apologies+for+the+inconvenience+caused+.)
+* [2015 VisCap: inference and visualization of germ-line copy-number variants from targeted clinical sequencing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4940431/)
 * [2012 A robust model for read count data in exome sequencing experiments and implications for copy number variant calling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476336/)
 
 ## Annotation
