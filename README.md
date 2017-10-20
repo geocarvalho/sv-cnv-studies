@@ -8,6 +8,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2014 Refining analyses of copy number variation identifies specific genes associated with developmental delay](http://www.nature.com/ng/journal/v46/n10/abs/ng.3092.html)
 * [2015 Allele-specific copy-number discovery from whole-genome and whole-exome sequencing](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv319)
 * [2015 Copy number variant analysis from exome data in 349 patients with epileptic encephalopathy](http://onlinelibrary.wiley.com/doi/10.1002/ana.24457/abstract)
+* [2015 Evaluation of somatic copy number estimation tools for whole-exome sequencing data](https://academic.oup.com/bib/article-abstract/17/2/185/1744035/Evaluation-of-somatic-copy-number-estimation-tools?redirectedFrom=fulltext)
 * [2016 Frequency and Complexity of De Novo Structural Mutation in Autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4833290/)
 * [2016 Evaluation of somatic copy number estimation tools for whole-exome sequencing data ](https://academic.oup.com/bib/article-abstract/17/2/185/1744035/Evaluation-of-somatic-copy-number-estimation-tools?redirectedFrom=fulltext)
 * [2016 Detection of Clinically Relevant Copy Number Variants with Whole-Exome Sequencing](http://www.nature.com/gim/journal/vaop/ncurrent/full/gim2016163a.html)
@@ -15,6 +16,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 Assessing the reproducibility of exome copy number variations predictions](http://genomemedicine.biomedcentral.com/articles/10.1186/s13073-016-0336-6)
 * [2016 Statistical models for DNA copy number variation detection using read-depth data from next generation sequencing experiments](http://onlinelibrary.wiley.com/doi/10.1111/anzs.12175/abstract)
 * [2016 Patterns of genic intolerance of rare copy number variation in 59,898 human exomes](http://www.nature.com/ng/journal/v48/n10/abs/ng.3638.html)
+* [2016 Challenges in detecting genomic copy number aberrations using next-generation sequencing data and the eXome Hidden Markov Model: a clinical exome-first diagnostic approach](https://www.nature.com/articles/hgv201625)
 * [2017 CLImAT-HET: detecting subclonal copy number alterations and loss of heterozygosity in heterogeneous tumor samples from whole-genome sequencing data](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-017-0255-4)
 * [2017 Profiling copy number variation and disease associations from 50,726 DiscovEHR Study exomes](http://biorxiv.org/content/early/2017/03/22/119461)
 * [2017 Validation of copy number variation analysis for next-generation sequencing diagnostics](http://dx.doi.org/10.1038/ejhg.2017.42)
@@ -24,6 +26,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 Enhanced copy number variants detection from whole-exome sequencing data using EXCAVATOR2](https://academic.oup.com/nar/article/44/20/e154/2607979/Enhanced-copy-number-variants-detection-from-whole)
 * [2016 CLAMMS: a scalable algorithm for calling common and rare copy number variants from exome sequencing data](https://academic.oup.com/bioinformatics/article/32/1/133/1743911/CLAMMS-a-scalable-algorithm-for-calling-common-and) - [github](https://github.com/rgcgithub/clamms)
 * [2017 ExCNVSS: A Noise-Robust Method for Copy Number Variation Detection in Whole Exome Sequencing Data](https://www.hindawi.com/journals/bmri/2017/9631282/)
+* [2017 Anaconda: AN automated pipeline for somatic COpy Number variation Detection and Annotation from tumor exome sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1833-3)
 
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
