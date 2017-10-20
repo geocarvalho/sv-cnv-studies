@@ -1,4 +1,4 @@
-# CNV and SV papers in NGS
+# CNV and SV tools for NGS data
 Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome, Exome and Amplicon Sequencing) pipelines.
 ---
 
