@@ -1,4 +1,4 @@
-# CNV and SV tools for NGS data :bowtie:
+# Awesome CNV and SV papers record :books:
 Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome, Exome and Amplicon Sequencing) pipelines.
 ---
 
