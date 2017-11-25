@@ -26,6 +26,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2015 CODEX: a normalization and copy number variation detection method for whole exome sequencing](https://academic.oup.com/nar/article/43/6/e39/2453417/CODEX-a-normalization-and-copy-number-variation)
 * [2016 Enhanced copy number variants detection from whole-exome sequencing data using EXCAVATOR2](https://academic.oup.com/nar/article/44/20/e154/2607979/Enhanced-copy-number-variants-detection-from-whole)
 * [2016 CLAMMS: a scalable algorithm for calling common and rare copy number variants from exome sequencing data](https://academic.oup.com/bioinformatics/article/32/1/133/1743911/CLAMMS-a-scalable-algorithm-for-calling-common-and) - [github](https://github.com/rgcgithub/clamms)
+> [KaryoScan: abnormal karyotype detection from whole-exome sequence](https://www.biorxiv.org/content/early/2017/10/17/204719) - [github](https://github.com/rgcgithub/karyoscan)
 * [2016 Challenges in detecting genomic copy number aberrations using next-generation sequencing data and the eXome Hidden Markov Model: a clinical exome-first diagnostic approach](https://www.nature.com/articles/hgv201625)
 * [2016 CloneCNA: detecting subclonal somatic copy number alterations in heterogeneous tumor samples from whole-exome sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1174-7)
 * [2017 ExCNVSS: A Noise-Robust Method for Copy Number Variation Detection in Whole Exome Sequencing Data](https://www.hindawi.com/journals/bmri/2017/9631282/)
@@ -47,19 +48,21 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 Detection of complex structural variation from paired-end sequencing data](https://www.biorxiv.org/content/early/2017/10/08/200170?rss=1)
 
 ## AS 
-* [2017 An enhanced method for targeted next generation sequencing copy number variant detection using ExomeDepth](https://wellcomeopenresearch.org/articles/2-49/v1)
-* [2017 panelcn.MOPS: Copy-number detection in targeted NGS panel data for clinical diagnostics](http://dx.doi.org/10.1002/humu.23237)
-* [2017 SeqCNV: a novel method for identification of copy number variations in targeted next-generation sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1566-3)
-* [2016 Accurate clinical detection of exon copy number variants in a targeted NGS panel using DECoN](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5409526/)
-* [2016 CoNVaDING: Single Exon Variation Detection in Targeted NGS Data](http://onlinelibrary.wiley.com/doi/10.1002/humu.22969/abstract?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+7th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+08.00+EDT+%2F+13.00+BST+%2F+17%3A30+IST+%2F+20.00+SGT+and+Sunday+8th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+06.00+EDT+%2F+11.00+BST+%2F+15%3A30+IST+%2F+18.00+SGT+for+essential+maintenance.+Apologies+for+the+inconvenience+caused+.)
-* [2015 VisCap: inference and visualization of germ-line copy-number variants from targeted clinical sequencing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4940431/)
 * [2012 A robust model for read count data in exome sequencing experiments and implications for copy number variant calling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476336/)
+* [2015 VisCap: inference and visualization of germ-line copy-number variants from targeted clinical sequencing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4940431/)
+* [2016 CoNVaDING: Single Exon Variation Detection in Targeted NGS Data](http://onlinelibrary.wiley.com/doi/10.1002/humu.22969/abstract?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+7th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+08.00+EDT+%2F+13.00+BST+%2F+17%3A30+IST+%2F+20.00+SGT+and+Sunday+8th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+06.00+EDT+%2F+11.00+BST+%2F+15%3A30+IST+%2F+18.00+SGT+for+essential+maintenance.+Apologies+for+the+inconvenience+caused+.)
+* [2016 Accurate clinical detection of exon copy number variants in a targeted NGS panel using DECoN](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5409526/)
+* [2017 SeqCNV: a novel method for identification of copy number variations in targeted next-generation sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1566-3)
+* [2017 panelcn.MOPS: Copy-number detection in targeted NGS panel data for clinical diagnostics](http://dx.doi.org/10.1002/humu.23237)
+* [2017 An enhanced method for targeted next generation sequencing copy number variant detection using ExomeDepth](https://wellcomeopenresearch.org/articles/2-49/v1)
+* [2017 CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing](https://www.biorxiv.org/content/early/2017/10/30/211698)
 
 ## Annotation
 * [StructuralVariantAnnotation](https://github.com/PapenfussLab/StructuralVariantAnnotation): contains useful helper functions for dealing with structural variants in VCF format.
 * [2015 SpeedSeq: ultra-fast personal genome analysis and interpretation](http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3505.html) - SVTyper - [github](https://github.com/hall-lab/svtyper)
 * [2016 SVScore: an impact prediction tool for structural variation](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw789/2748212/SVScore-an-impact-prediction-tool-for-structural) - [github](https://github.com/lganel/SVScore)
 * [2016 Prioritisation of Structural Variant Calls in Cancer Genomes](http://biorxiv.org/content/early/2016/11/04/084640) - [github](https://github.com/AstraZeneca-NGS/simple_sv_annotation)
+* [2017 Annotation Education Series: CNV Annotations](http://blog.goldenhelix.com/dkammeraad/annotation-education-series-final-chapter-cnv-annotations/)
 
 ## Visualization
 * [CNVplot](https://github.com/dantaki/CNVplot): Plot CNV data with a genome viewer in R.
@@ -72,4 +75,5 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 ## Others
 * [SVsim](https://github.com/GregoryFaust/SVsim): a tool that generates synthetic Structural Variant calls as benchmarks to test/evaluate SV calling pipelines.
 * [Structural Variant Catalog](https://github.com/tobiasrausch/svcatalog): A repository for human genetic structural variants (SVs) discovered by Delly in the 1000 Genomes cohort of samples.
-* [SVDB](https://github.com/J35P312/SVDB): SVDB is a toolkit for constructing and querying structural variant databases. The databases are constructed using the output vcf files from structural variant callers such as TIDDIT, Manta, Fermikit or Delly. [The thousand genomes structural variant calls may also be used as a database](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/integrated_sv_map/).
+* [SVDB](https://github.com/J35P312/SVDB): SVDB is a toolkit for constructing and querying structural variant databases. The databases are constructed using the output vcf files from structural variant callers such as TIDDIT, Manta, Fermikit or Delly. [The thousand genomes structural variant calls may also be used as a database](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/integrated_sv_map/)
+* [2017 Bamgineer: Introduction of simulated allele-specific copy number variants into exome and targeted sequence data sets](https://www.biorxiv.org/content/early/2017/03/22/119636) - [github](https://github.com/pughlab/bamgineer)
