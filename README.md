@@ -1,4 +1,4 @@
-# CNV and SV tools for NGS data
+# CNV and SV tools for NGS data :bowtie:
 Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome, Exome and Amplicon Sequencing) pipelines.
 ---
 
