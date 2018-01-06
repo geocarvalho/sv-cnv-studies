@@ -48,6 +48,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 Anaconda: AN automated pipeline for somatic COpy Number variation Detectio and Annotation from tumor exome sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1833-3)
 * [2017 WISExome: a within-sample comparison approach to detect copy number variations in whole exome sequencing data](https://www.nature.com/articles/s41431-017-0005-2)
 * [2017 An evaluation of copy number variation detection tools for cancer using whole exome sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1705-x)
+* [2018 A Comprehensive Workflow for Read Depth-Based Identification of Copy-Number Variation from Whole-Genome Sequence Data](http://www.cell.com/ajhg/abstract/S0002-9297(17)30496-2) - [github](https://github.com/bjtrost/TCAG-WGS-CNV-workflow)
 
 ## AS 
 * [2012 A robust model for read count data in exome sequencing experiments and implications for copy number variant calling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476336/)
