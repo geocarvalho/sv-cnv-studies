@@ -22,7 +22,6 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 Profiling copy number variation and disease associations from 50,726 DiscovEHR Study exomes](http://biorxiv.org/content/early/2017/03/22/119461)
 * [2017 Validation of copy number variation analysis for next-generation sequencing diagnostics](http://dx.doi.org/10.1038/ejhg.2017.42)
 * [2017 Evaluation of three read-depth based CNV detection tools using whole-exome sequencing data](https://molecularcytogenetics.biomedcentral.com/articles/10.1186/s13039-017-0333-5)
-* [2018 SVEngine: an efficient and versatile simulator of genome structural variations with features of cancer clonal evolution](https://www.biorxiv.org/content/early/2018/01/12/247536)
 
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
@@ -82,3 +81,4 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [Structural Variant Catalog](https://github.com/tobiasrausch/svcatalog): A repository for human genetic structural variants (SVs) discovered by Delly in the 1000 Genomes cohort of samples.
 * [SVDB](https://github.com/J35P312/SVDB): SVDB is a toolkit for constructing and querying structural variant databases. The databases are constructed using the output vcf files from structural variant callers such as TIDDIT, Manta, Fermikit or Delly. [The thousand genomes structural variant calls may also be used as a database](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/integrated_sv_map/)
 * [2017 Bamgineer: Introduction of simulated allele-specific copy number variants into exome and targeted sequence data sets](https://www.biorxiv.org/content/early/2017/03/22/119636) - [github](https://github.com/pughlab/bamgineer)
+* [2018 SVEngine: an efficient and versatile simulator of genome structural variations with features of cancer clonal evolution](https://www.biorxiv.org/content/early/2018/01/12/247536)
