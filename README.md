@@ -42,6 +42,8 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Detection of complex structural variation from paired-end sequencing data](https://www.biorxiv.org/content/early/2018/02/01/200170?rss=1)
 * [2018 GIGGLE: a search engine for large-scale integrated genome analysis](https://www.nature.com/articles/nmeth.4556)
 * [2018 FusorSV: an algorithm for optimally combining data from multiple structural variation detection methods](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1404-6)
+* [2018 SvABA: genome-wide detection of structural variants and indels by local assembly](https://genome.cshlp.org/content/28/4/581.abstract?platform=hootsuite)
+* [2018 Global characterization of copy number variants in epilepsy patients from whole genome sequencing](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007285)
 
 ## WES
 * [2015 CODEX: a normalization and copy number variation detection method for whole exome sequencing](https://academic.oup.com/nar/article/43/6/e39/2453417/CODEX-a-normalization-and-copy-number-variation)
