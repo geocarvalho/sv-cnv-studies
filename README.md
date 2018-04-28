@@ -70,6 +70,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 An enhanced method for targeted next generation sequencing copy number variant detection using ExomeDepth](https://wellcomeopenresearch.org/articles/2-49/v1)
 * [2017 CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing](https://www.biorxiv.org/content/early/2017/10/30/211698)
 * [2017 Clinical Validation of Copy Number Variant Detection from Targeted Next-Generation Sequencing Panels](http://jmd.amjpathol.org/article/S1525-1578(17)30207-6/fulltext)
+* [2018 Ioncopy: an R Shiny app to call copy number alterations in targeted NGS data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2159-5)
 
 ## Annotation
 * [StructuralVariantAnnotation](https://github.com/PapenfussLab/StructuralVariantAnnotation): contains useful helper functions for dealing with structural variants in VCF format.
