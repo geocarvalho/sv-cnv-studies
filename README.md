@@ -61,6 +61,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 
 ## AS 
 * [2012 A robust model for read count data in exome sequencing experiments and implications for copy number variant calling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476336/)
+* [2013 CNV-TV: A robust method to discover copy number variation from short sequencing reads](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-150)
 * [2015 VisCap: inference and visualization of germ-line copy-number variants from targeted clinical sequencing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4940431/)
 * [2016 CoNVaDING: Single Exon Variation Detection in Targeted NGS Data](http://onlinelibrary.wiley.com/doi/10.1002/humu.22969/abstract?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+7th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+08.00+EDT+%2F+13.00+BST+%2F+17%3A30+IST+%2F+20.00+SGT+and+Sunday+8th+Oct+from+03.00+EDT+%2F+08%3A00+BST+%2F+12%3A30+IST+%2F+15.00+SGT+to+06.00+EDT+%2F+11.00+BST+%2F+15%3A30+IST+%2F+18.00+SGT+for+essential+maintenance.+Apologies+for+the+inconvenience+caused+.)
 * [2016 Accurate clinical detection of exon copy number variants in a targeted NGS panel using DECoN](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5409526/)
