@@ -6,6 +6,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 ## Background CNV and SV
 * [2008 Integrated detection and population-genetic analysis of SNPs and copy number variation](https://www.nature.com/articles/ng.238)
 * [2011 Genome structural variation discovery and genotyping](http://www.nature.com/nrg/journal/v12/n5/full/nrg2958.html?foxtrotcallback=true)
+* [2012 Read count approach for DNA copy number variants detection](https://academic.oup.com/bioinformatics/article/28/4/470/213239)
 * [2013 Computational tools for copy number variation (CNV) detection using next-generation sequencing data: features and perspectives](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S11-S1)
 * [2014 An Evaluation of Copy Number Variation Detection Tools from Whole-Exome Sequencing Data](http://onlinelibrary.wiley.com/doi/10.1002/humu.22537/abstract)
 * [2014 Refining analyses of copy number variation identifies specific genes associated with developmental delay](http://www.nature.com/ng/journal/v46/n10/abs/ng.3092.html)
