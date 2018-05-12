@@ -26,6 +26,8 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 Evaluation of three read-depth based CNV detection tools using whole-exome sequencing data](https://molecularcytogenetics.biomedcentral.com/articles/10.1186/s13039-017-0333-5)
 * [2017 Clinical relevance of small copy-number variants in chromosomal microarray clinical testing](https://www.nature.com/articles/gim2016132)
 * [2017 Germline copy number variations are associated with breast cancer risk and prognosis](https://www.nature.com/articles/s41598-017-14799-7)
+* [2017 Evaluation of copy-number variants as modifiers of breast and ovarian cancer risk for BRCA1 pathogenic variant carriers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5386423/)
+
 
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
