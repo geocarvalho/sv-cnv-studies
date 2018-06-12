@@ -79,6 +79,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 An enhanced method for targeted next generation sequencing copy number variant detection using ExomeDepth](https://wellcomeopenresearch.org/articles/2-49/v1)
 * [2017 CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing](https://www.biorxiv.org/content/early/2017/10/30/211698)
 * [2017 Clinical Validation of Copy Number Variant Detection from Targeted Next-Generation Sequencing Panels](http://jmd.amjpathol.org/article/S1525-1578(17)30207-6/fulltext)
+* [2017 ‘COV’COP’ allows to detect CNVs responsible for inherited diseases among amplicons sequencing data](https://academic.oup.com/bioinformatics/article/33/10/1586/2962858) - [git](https://git.unilim.fr/merilp02/CovCop2)
 * [2018 Ioncopy: an R Shiny app to call copy number alterations in targeted NGS data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2159-5)
 * [2018 Validation of an ultra-fast CNV calling tool for Next Generation Sequencing data using MLPA-verified copy number alterations](https://www.biorxiv.org/content/early/2018/06/06/340505)
 
