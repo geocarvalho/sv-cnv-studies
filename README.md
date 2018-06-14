@@ -32,7 +32,8 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 Evaluation of copy-number variants as modifiers of breast and ovarian cancer risk for BRCA1 pathogenic variant carriers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5386423/)
 
 ## Long read
-* [NextSV: a meta-caller for structural variants from low-coverage long-read sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2207-1)
+* [2017 Mapping and phasing of structural variation in patient genomes using nanopore sequencing](https://www.nature.com/articles/s41467-017-01343-4) - [github](https://github.com/mroosmalen/nanosv)
+* [2018 NextSV: a meta-caller for structural variants from low-coverage long-read sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2207-1)
 
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
