@@ -30,6 +30,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 Clinical relevance of small copy-number variants in chromosomal microarray clinical testing](https://www.nature.com/articles/gim2016132)
 * [2017 Germline copy number variations are associated with breast cancer risk and prognosis](https://www.nature.com/articles/s41598-017-14799-7)
 * [2017 Evaluation of copy-number variants as modifiers of breast and ovarian cancer risk for BRCA1 pathogenic variant carriers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5386423/)
+* [2017 Copy Number Variations Detection: Unravelling the Problem in Tangible Aspects](https://www.ncbi.nlm.nih.gov/pubmed/27295681)
 
 ## Long read
 * [2017 Mapping and phasing of structural variation in patient genomes using nanopore sequencing](https://www.nature.com/articles/s41467-017-01343-4) - [github](https://github.com/mroosmalen/nanosv)
