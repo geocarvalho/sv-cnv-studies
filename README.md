@@ -12,6 +12,8 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2013 Computational tools for copy number variation (CNV) detection using next-generation sequencing data: features and perspectives](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S11-S1)
 * [2014 An Evaluation of Copy Number Variation Detection Tools from Whole-Exome Sequencing Data](http://onlinelibrary.wiley.com/doi/10.1002/humu.22537/abstract)
 * [2014 Refining analyses of copy number variation identifies specific genes associated with developmental delay](http://www.nature.com/ng/journal/v46/n10/abs/ng.3092.html)
+* [2015 Use of high-throughput targeted exome-sequencing to screen for copy number variation in hypertrophic cardiomyopathy](https://www.sciencedirect.com/science/article/pii/S1769721215300252?via%3Dihub) 
+> An example using ExomeDepth
 * [2015 Allele-specific copy-number discovery from whole-genome and whole-exome sequencing](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkv319)
 * [2015 Copy number variant analysis from exome data in 349 patients with epileptic encephalopathy](http://onlinelibrary.wiley.com/doi/10.1002/ana.24457/abstract)
 * [2015 Evaluation of somatic copy number estimation tools for whole-exome sequencing data](https://academic.oup.com/bib/article-abstract/17/2/185/1744035/Evaluation-of-somatic-copy-number-estimation-tools?redirectedFrom=fulltext)
@@ -57,6 +59,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Human copy number variants are enriched in regions of low mappability](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky538/5042037#.Wy09sMRev6o.twitter)
 
 ## WES
+* [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
 * [2015 CODEX: a normalization and copy number variation detection method for whole exome sequencing](https://academic.oup.com/nar/article/43/6/e39/2453417/CODEX-a-normalization-and-copy-number-variation)
 * [2016 Enhanced copy number variants detection from whole-exome sequencing data using EXCAVATOR2](https://academic.oup.com/nar/article/44/20/e154/2607979/Enhanced-copy-number-variants-detection-from-whole)
 * [2016 CLAMMS: a scalable algorithm for calling common and rare copy number variants from exome sequencing data](https://academic.oup.com/bioinformatics/article/32/1/133/1743911/CLAMMS-a-scalable-algorithm-for-calling-common-and) - [github](https://github.com/rgcgithub/clamms)
