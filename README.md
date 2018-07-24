@@ -57,6 +57,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 SvABA: genome-wide detection of structural variants and indels by local assembly](https://genome.cshlp.org/content/28/4/581.abstract?platform=hootsuite)
 * [2018 Global characterization of copy number variants in epilepsy patients from whole genome sequencing](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007285)
 * [2018 Human copy number variants are enriched in regions of low mappability](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky538/5042037#.Wy09sMRev6o.twitter)
+* [2018 MSeq-CNV: accurate detection of Copy Number Variation from Sequencing of Multiple samples](https://www.nature.com/articles/s41598-018-22323-8)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
