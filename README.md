@@ -98,6 +98,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 Prioritisation of Structural Variant Calls in Cancer Genomes](http://biorxiv.org/content/early/2016/11/04/084640) - [github](https://github.com/AstraZeneca-NGS/simple_sv_annotation)
 * [2016 cnvScan: a CNV screening and annotation tool to improve the clinical utility of computational CNV prediction from exome sequencing data](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2374-2)
 * [2017 Annotation Education Series: CNV Annotations](http://blog.goldenhelix.com/dkammeraad/annotation-education-series-final-chapter-cnv-annotations/)
+* [2018 AnnotSV: an integrated tool for structural variations annotation](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty304/4970516?redirectedFrom=fulltext) - [website](http://www.lbgi.fr/AnnotSV/)
 
 ## Visualization
 * [CNVplot](https://github.com/dantaki/CNVplot): Plot CNV data with a genome viewer in R.
