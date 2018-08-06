@@ -117,3 +117,4 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 CNVbase: Batch identification of novel and rare copy number variations based on multi-ethnic population data](https://www.sciencedirect.com/science/article/pii/S167385271730108X?via%3Dihub) - [CNVbase](http://database.gdg-fudan.org/DB_HTML/Home.html)
 * [2018 SVEngine: an efficient and versatile simulator of genome structural variations with features of cancer clonal evolution](https://www.biorxiv.org/content/early/2018/01/12/247536)
 * [2018 RBV: Read balance validator, a tool for prioritising copy number variations in germline conditions](https://www.biorxiv.org/content/early/2018/06/07/340166) - [github](https://github.com/whitneywhitford/RBV)
+* [2018 Detection of de novo copy number deletions from targeted sequencing of trios](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty677/5064107)
