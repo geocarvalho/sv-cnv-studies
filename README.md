@@ -95,7 +95,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 
 ## RNAseq
 * [2018 CaSpER: Identification, visualization and integrative analysis of CNV events in multiscale resolution using single-cell or bulk RNA sequencing data](https://www.biorxiv.org/content/early/2018/09/26/426122)
-* [2018 CNVkit-RNA: Copy number inference from RNA-Sequencing data](https://www.biorxiv.org/content/early/2018/09/04/408534?rss=1)
+* [2018 CNVkit-RNA: Copy number inference from RNA-Sequencing data](https://www.biorxiv.org/content/early/2018/09/04/408534?rss=1) - [youtube tutorial](https://www.youtube.com/watch?v=JGOIXYoLG6w&feature=youtu.be)
 
 ## Annotation
 * [StructuralVariantAnnotation](https://github.com/PapenfussLab/StructuralVariantAnnotation): contains useful helper functions for dealing with structural variants in VCF format.
