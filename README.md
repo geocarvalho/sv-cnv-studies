@@ -93,6 +93,10 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Ioncopy: an R Shiny app to call copy number alterations in targeted NGS data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2159-5)
 * [2018 Validation of an ultra-fast CNV calling tool for Next Generation Sequencing data using MLPA-verified copy number alterations](https://www.biorxiv.org/content/early/2018/06/06/340505)
 
+## RNAseq
+* [2018 CaSpER: Identification, visualization and integrative analysis of CNV events in multiscale resolution using single-cell or bulk RNA sequencing data](https://www.biorxiv.org/content/early/2018/09/26/426122)
+* [2018 CNVkit-RNA: Copy number inference from RNA-Sequencing data](https://www.biorxiv.org/content/early/2018/09/04/408534?rss=1)
+
 ## Annotation
 * [StructuralVariantAnnotation](https://github.com/PapenfussLab/StructuralVariantAnnotation): contains useful helper functions for dealing with structural variants in VCF format.
 * [2015 SpeedSeq: ultra-fast personal genome analysis and interpretation](http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3505.html) - SVTyper - [github](https://github.com/hall-lab/svtyper)
