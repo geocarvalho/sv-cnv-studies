@@ -33,6 +33,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 Germline copy number variations are associated with breast cancer risk and prognosis](https://www.nature.com/articles/s41598-017-14799-7)
 * [2017 Evaluation of copy-number variants as modifiers of breast and ovarian cancer risk for BRCA1 pathogenic variant carriers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5386423/)
 * [2017 Copy Number Variations Detection: Unravelling the Problem in Tangible Aspects](https://www.ncbi.nlm.nih.gov/pubmed/27295681)
+* [2017 Germline copy number variations are associated with breast cancer risk and prognosis](https://www.nature.com/articles/s41598-017-14799-7?utm_source=Springer_Nature_website&utm_medium=Referral_link&utm_content=ChrBigs-SN-OD-Genetics-Global&utm_campaign=SNOR_USG_ASHG18_LP)
 * [2018 A randomized approach to speed up the analysis of large-scale read-count data in the application of CNV detection](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2077-6)
 * [2018 Whole-exome sequence analysis highlights the role of unmasked recessive mutations in copy number variants with incomplete penetrance](https://www.nature.com/articles/s41431-018-0124-4)
 
