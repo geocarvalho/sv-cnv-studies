@@ -54,6 +54,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 GRIDSS: sensitive and specific genomic rearrangement detection using positional de Bruijn graph assembly](http://biorxiv.org/content/early/2017/02/21/110387) - [github](https://github.com/PapenfussLab/gridss)
 * [2017 Detection of complex structural variation from paired-end sequencing data](https://www.biorxiv.org/content/early/2017/10/08/200170?rss=1)
 * [2017 CLImAT-HET: detecting subclonal copy number alterations and loss of heterozygosity in heterogeneous tumor samples from whole-genome sequencing data](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-017-0255-4)
+* [2017 Performance of four modern whole genome amplification methods for copy number variant detection in single cells](https://www.nature.com/articles/s41598-017-03711-y?utm_source=Springer_Nature_website&utm_medium=Referral_link&utm_content=ChrBigs-SN-OD-Genetics-Global&utm_campaign=SNOR_USG_ASHG18_LP)
 * [2018 Detection of complex structural variation from paired-end sequencing data](https://www.biorxiv.org/content/early/2018/02/01/200170?rss=1)
 * [2018 GIGGLE: a search engine for large-scale integrated genome analysis](https://www.nature.com/articles/nmeth.4556)
 * [2018 FusorSV: an algorithm for optimally combining data from multiple structural variation detection methods](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1404-6)
