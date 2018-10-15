@@ -60,6 +60,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Global characterization of copy number variants in epilepsy patients from whole genome sequencing](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007285)
 * [2018 Human copy number variants are enriched in regions of low mappability](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky538/5042037#.Wy09sMRev6o.twitter)
 * [2018 MSeq-CNV: accurate detection of Copy Number Variation from Sequencing of Multiple samples](https://www.nature.com/articles/s41598-018-22323-8)
+* [2018 CoNVaQ: a web tool for copy number variation-based association studies](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4732-8?utm_source=Springer_Nature_website&utm_medium=Referral_link&utm_content=ChrBigs-SN-OD-Genetics-Global&utm_campaign=SNOR_USG_ASHG18_LP)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
@@ -75,6 +76,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 An evaluation of copy number variation detection tools for cancer using whole exome sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1705-x)
 * [2017 WISExome: a within-sample comparison approach to detect copy number variations in whole exome sequencing data](https://www.nature.com/articles/s41431-017-0005-2)
 * [2018 A Comprehensive Workflow for Read Depth-Based Identification of Copy-Number Variation from Whole-Genome Sequence Data](http://www.cell.com/ajhg/abstract/S0002-9297(17)30496-2) - [github](https://github.com/bjtrost/TCAG-WGS-CNV-workflow)
+* [2018 LinkedSV: Detection of mosaic structural variants from linked-read exome and genome sequencing data](https://www.biorxiv.org/content/early/2018/10/10/409789)
 
 ## AS 
 * [2012 A robust model for read count data in exome sequencing experiments and implications for copy number variant calling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476336/)
