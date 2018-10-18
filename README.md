@@ -96,6 +96,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 CNVkit: Genome-Wide Copy Number Detection and Visualization from Targeted DNA Sequencing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004873) - [website](https://cnvkit.readthedocs.io/en/stable/)
 * [2018 Ioncopy: an R Shiny app to call copy number alterations in targeted NGS data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2159-5)
 * [2018 Validation of an ultra-fast CNV calling tool for Next Generation Sequencing data using MLPA-verified copy number alterations](https://www.biorxiv.org/content/early/2018/06/06/340505)
+* [2018 DeviCNV: detection and visualization of exon-level copy number variants in targeted next-generation sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2409-6)
 
 ## RNAseq
 * [2018 CaSpER: Identification, visualization and integrative analysis of CNV events in multiscale resolution using single-cell or bulk RNA sequencing data](https://www.biorxiv.org/content/early/2018/09/26/426122)
