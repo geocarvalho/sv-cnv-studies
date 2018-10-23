@@ -36,6 +36,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 Germline copy number variations are associated with breast cancer risk and prognosis](https://www.nature.com/articles/s41598-017-14799-7?utm_source=Springer_Nature_website&utm_medium=Referral_link&utm_content=ChrBigs-SN-OD-Genetics-Global&utm_campaign=SNOR_USG_ASHG18_LP)
 * [2018 A randomized approach to speed up the analysis of large-scale read-count data in the application of CNV detection](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2077-6)
 * [2018 Whole-exome sequence analysis highlights the role of unmasked recessive mutations in copy number variants with incomplete penetrance](https://www.nature.com/articles/s41431-018-0124-4)
+* [2018 Copy Number Variants - Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-8666-8)
 
 ## Long read
 * [2017 Mapping and phasing of structural variation in patient genomes using nanopore sequencing](https://www.nature.com/articles/s41467-017-01343-4) - [github](https://github.com/mroosmalen/nanosv)
@@ -63,6 +64,15 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Human copy number variants are enriched in regions of low mappability](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky538/5042037#.Wy09sMRev6o.twitter)
 * [2018 MSeq-CNV: accurate detection of Copy Number Variation from Sequencing of Multiple samples](https://www.nature.com/articles/s41598-018-22323-8)
 * [2018 CoNVaQ: a web tool for copy number variation-based association studies](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4732-8?utm_source=Springer_Nature_website&utm_medium=Referral_link&utm_content=ChrBigs-SN-OD-Genetics-Global&utm_campaign=SNOR_USG_ASHG18_LP)
+* [2018 Using SAAS-CNV to Detect and Characterize Somatic Copy Number Alterations in Cancer Genomes from Next Generation Sequencing and SNP Array Data](https://link.springer.com/protocol/10.1007%2F978-1-4939-8666-8_2)
+* [2018 Using HaMMLET for Bayesian Segmentation of WGS Read-Depth Data](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_6)
+* [2018 Split-Read Indel and Structural Variant Calling Using PINDEL](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_7)
+* [2018 Detecting Small Inversions Using SRinversion](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_8)
+* [2018 Detection of CNVs in NGS Data Using VS-CNV](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_9)
+* [2018 Structural Variant Breakpoint Detection with novoBreak](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_10)
+* [2018 Versatile Identification of Copy Number Variants with Canvas](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_12)
+* [2018 Identification of Copy Number Variants from SNP Arrays Using PennCNV](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_1)
+* [2018 Whole-Genome Shotgun Sequence CNV Detection Using Read Depth](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_4)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
