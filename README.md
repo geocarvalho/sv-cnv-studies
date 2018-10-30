@@ -34,6 +34,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 Evaluation of copy-number variants as modifiers of breast and ovarian cancer risk for BRCA1 pathogenic variant carriers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5386423/)
 * [2017 Copy Number Variations Detection: Unravelling the Problem in Tangible Aspects](https://www.ncbi.nlm.nih.gov/pubmed/27295681)
 * [2017 Germline copy number variations are associated with breast cancer risk and prognosis](https://www.nature.com/articles/s41598-017-14799-7?utm_source=Springer_Nature_website&utm_medium=Referral_link&utm_content=ChrBigs-SN-OD-Genetics-Global&utm_campaign=SNOR_USG_ASHG18_LP)
+* [2017 Detection of Copy Number Variations (CNVs) Based on the Coverage Depth from the Next Generation Sequencing Data](https://link.springer.com/chapter/10.1007%2F978-3-319-56418-0_2)
 * [2018 A randomized approach to speed up the analysis of large-scale read-count data in the application of CNV detection](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2077-6)
 * [2018 Whole-exome sequence analysis highlights the role of unmasked recessive mutations in copy number variants with incomplete penetrance](https://www.nature.com/articles/s41431-018-0124-4)
 * [2018 Copy Number Variants - Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-8666-8)
@@ -73,6 +74,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Versatile Identification of Copy Number Variants with Canvas](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_12)
 * [2018 Identification of Copy Number Variants from SNP Arrays Using PennCNV](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_1)
 * [2018 Whole-Genome Shotgun Sequence CNV Detection Using Read Depth](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_4)
+* [2018 Whole-Genome Shotgun Sequence CNV Detection Using Read Depth](https://link.springer.com/protocol/10.1007%2F978-1-4939-8666-8_4)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
