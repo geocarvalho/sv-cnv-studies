@@ -39,6 +39,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Whole-exome sequence analysis highlights the role of unmasked recessive mutations in copy number variants with incomplete penetrance](https://www.nature.com/articles/s41431-018-0124-4)
 * [2018 Copy Number Variants - Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-8666-8)
 * [2018 Assessment of the incorporation of CNV surveillance into gene panel next-generation sequencing testing for inherited retinal diseases](https://jmg.bmj.com/content/55/2/114)
+* [2018 Rare Copy Number Variations and Predictors in Children With Intellectual Disability and Epilepsy](https://www.frontiersin.org/articles/10.3389/fneur.2018.00947/full)
 
 ## Long read
 * [2017 Mapping and phasing of structural variation in patient genomes using nanopore sequencing](https://www.nature.com/articles/s41467-017-01343-4) - [github](https://github.com/mroosmalen/nanosv)
