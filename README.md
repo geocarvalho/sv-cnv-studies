@@ -8,6 +8,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2010 Origins and functional impact of copy number variation in the human genome](https://www.ncbi.nlm.nih.gov/pubmed/19812545)
 * [2011 Genome structural variation discovery and genotyping](http://www.nature.com/nrg/journal/v12/n5/full/nrg2958.html?foxtrotcallback=true)
 * [2011 Modeling read counts for CNV detection in exome sequencing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3517018/)
+* [2011 American College of Medical Genetics standards and guidelines for interpretation and reporting of postnatal constitutional copy number variants](https://www.nature.com/articles/gim92011110)
 * [2012 Read count approach for DNA copy number variants detection](https://academic.oup.com/bioinformatics/article/28/4/470/213239)
 * [2013 Computational tools for copy number variation (CNV) detection using next-generation sequencing data: features and perspectives](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S11-S1)
 * [2014 An Evaluation of Copy Number Variation Detection Tools from Whole-Exome Sequencing Data](http://onlinelibrary.wiley.com/doi/10.1002/humu.22537/abstract)
