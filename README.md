@@ -77,7 +77,6 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Versatile Identification of Copy Number Variants with Canvas](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_12)
 * [2018 Identification of Copy Number Variants from SNP Arrays Using PennCNV](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_1)
 * [2018 Whole-Genome Shotgun Sequence CNV Detection Using Read Depth](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_4)
-* [2018 Whole-Genome Shotgun Sequence CNV Detection Using Read Depth](https://link.springer.com/protocol/10.1007%2F978-1-4939-8666-8_4)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
