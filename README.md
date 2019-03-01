@@ -87,11 +87,13 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
 * [2015 CODEX: a normalization and copy number variation detection method for whole exome sequencing](https://academic.oup.com/nar/article/43/6/e39/2453417/CODEX-a-normalization-and-copy-number-variation)
+* [2015 Detecting copy-number variations in whole-exome sequencing data using the eXome Hidden Markov Model: an ‘exome-first’ approach](https://www.nature.com/articles/jhg2014124)
 * [2016 Enhanced copy number variants detection from whole-exome sequencing data using EXCAVATOR2](https://academic.oup.com/nar/article/44/20/e154/2607979/Enhanced-copy-number-variants-detection-from-whole)
 * [2016 CLAMMS: a scalable algorithm for calling common and rare copy number variants from exome sequencing data](https://academic.oup.com/bioinformatics/article/32/1/133/1743911/CLAMMS-a-scalable-algorithm-for-calling-common-and) - [github](https://github.com/rgcgithub/clamms)
 > [KaryoScan: abnormal karyotype detection from whole-exome sequence](https://www.biorxiv.org/content/early/2017/10/17/204719) - [github](https://github.com/rgcgithub/karyoscan)
 * [2016 Challenges in detecting genomic copy number aberrations using next-generation sequencing data and the eXome Hidden Markov Model: a clinical exome-first diagnostic approach](https://www.nature.com/articles/hgv201625)
 * [2016 CloneCNA: detecting subclonal somatic copy number alterations in heterogeneous tumor samples from whole-exome sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1174-7)
+* [2016 CNV-RF Is a Random Forest–Based Copy Number Variation Detection Method Using Next-Generation Sequencing](https://jmd.amjpathol.org/article/S1525-1578(16)30131-3/fulltext)
 * [2017 ExCNVSS: A Noise-Robust Method for Copy Number Variation Detection in Whole Exome Sequencing Data](https://www.hindawi.com/journals/bmri/2017/9631282/)
 * [2017 Anaconda: AN automated pipeline for somatic COpy Number variation Detectio and Annotation from tumor exome sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1833-3)
 * [2017 An evaluation of copy number variation detection tools for cancer using whole exome sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1705-x)
