@@ -27,6 +27,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 Patterns of genic intolerance of rare copy number variation in 59,898 human exomes](http://www.nature.com/ng/journal/v48/n10/abs/ng.3638.html)
 * [2016 Challenges in detecting genomic copy number aberrations using next-generation sequencing data and the eXome Hidden Markov Model: a clinical exome-first diagnostic approach](https://www.nature.com/articles/hgv201625)
 * [2016 Statistical models for DNA copy number variation detection using read-depth data from next generation sequencing experiments](http://onlinelibrary.wiley.com/doi/10.1111/anzs.12175/abstract?systemMessage=Wiley+Online+Library+usage+report+download+page+will+be+unavailable+on+Friday+24th+November+2017+at+21%3A00+EST+%2F+02.00+GMT+%2F+10%3A00+SGT+%28Saturday+25th+Nov+for+SGT+)
+* [2016 Homozygous and hemizygous CNV detection from exome sequencing data in a Mendelian disease cohort](https://academic.oup.com/nar/article/45/4/1633/2681735)
 * [2017 Profiling copy number variation and disease associations from 50,726 DiscovEHR Study exomes](http://biorxiv.org/content/early/2017/03/22/119461)
 * [2017 Validation of copy number variation analysis for next-generation sequencing diagnostics](http://dx.doi.org/10.1038/ejhg.2017.42)
 * [2017 Evaluation of three read-depth based CNV detection tools using whole-exome sequencing data](https://molecularcytogenetics.biomedcentral.com/articles/10.1186/s13039-017-0333-5)
@@ -44,6 +45,8 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Copy Number Variants - Methods and Protocols](https://link.springer.com/book/10.1007/978-1-4939-8666-8)
 * [2018 Assessment of the incorporation of CNV surveillance into gene panel next-generation sequencing testing for inherited retinal diseases](https://jmg.bmj.com/content/55/2/114)
 * [2018 Rare Copy Number Variations and Predictors in Children With Intellectual Disability and Epilepsy](https://www.frontiersin.org/articles/10.3389/fneur.2018.00947/full)
+* [2018 Whole-genome sequencing analysis of CNV using low-coverage and paired-end strategies is efficient and outperforms array-based CNV analysis](https://jmg.bmj.com/content/55/11/735)
+
 
 ## Long read
 * [2017 Mapping and phasing of structural variation in patient genomes using nanopore sequencing](https://www.nature.com/articles/s41467-017-01343-4) - [github](https://github.com/mroosmalen/nanosv)
