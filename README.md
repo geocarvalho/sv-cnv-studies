@@ -137,6 +137,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2017 Annotation Education Series: CNV Annotations](http://blog.goldenhelix.com/dkammeraad/annotation-education-series-final-chapter-cnv-annotations/)
 * [2018 AnnotSV: an integrated tool for structural variations annotation](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty304/4970516?redirectedFrom=fulltext) - [website](http://www.lbgi.fr/AnnotSV/)
 * [2019 An open resource of structural variation for medical and population genetics](https://www.biorxiv.org/content/10.1101/578674v1)
+* [2019 Duphold: scalable, depth-based annotation and curation of high-confidence structural variant calls](https://academic.oup.com/gigascience/article/8/4/giz040/5477467)
 
 ## Visualization
 * [CNVplot](https://github.com/dantaki/CNVplot): Plot CNV data with a genome viewer in R.
