@@ -149,10 +149,16 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 Ribbon: Visualizing complex genome alignments and structural variation](http://biorxiv.org/content/early/2016/10/20/082123) - [github](https://github.com/MariaNattestad/Ribbon)
 * [samplot:](https://github.com/ryanlayer/samplot)
 
+## Orchestrators
+* [CNV-patissier github](https://github.com/stefpiatek/cnv-patissier)
+* [Ximmer github](https://github.com/ssadedin/ximmer)
+* [megSAP github](https://github.com/imgag/megSAP)
+
 ## Others
 * [SVsim](https://github.com/GregoryFaust/SVsim): a tool that generates synthetic Structural Variant calls as benchmarks to test/evaluate SV calling pipelines.
 * [Structural Variant Catalog](https://github.com/tobiasrausch/svcatalog): A repository for human genetic structural variants (SVs) discovered by Delly in the 1000 Genomes cohort of samples.
 * [SVDB](https://github.com/J35P312/SVDB): SVDB is a toolkit for constructing and querying structural variant databases. The databases are constructed using the output vcf files from structural variant callers such as TIDDIT, Manta, Fermikit or Delly. [The thousand genomes structural variant calls may also be used as a database](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/integrated_sv_map/)
+* [bcftools cnv](https://samtools.github.io/bcftools/bcftools.html#cnv)
 * [2017 Bamgineer: Introduction of simulated allele-specific copy number variants into exome and targeted sequence data sets](https://www.biorxiv.org/content/early/2017/03/22/119636) - [github](https://github.com/pughlab/bamgineer)
 * [2017 CNVbase: Batch identification of novel and rare copy number variations based on multi-ethnic population data](https://www.sciencedirect.com/science/article/pii/S167385271730108X?via%3Dihub) - [CNVbase](http://database.gdg-fudan.org/DB_HTML/Home.html)
 * [2018 SVEngine: an efficient and versatile simulator of genome structural variations with features of cancer clonal evolution](https://www.biorxiv.org/content/early/2018/01/12/247536)
