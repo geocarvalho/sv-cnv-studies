@@ -56,8 +56,12 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
 * [SvABA](https://github.com/walaj/svaba): Structural variation and indel analysis by assembly.
 * [2007 PennCNV: An integrated hidden Markov model designed for high-resolution copy number variation detection in whole-genome SNP genotyping data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2045149/)
+* [2009 Sensitive and accurate detection of copy number variants using read depth of coverage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752127/)
+* [2009 Personalized Copy-Number and Segmental Duplication Maps using Next-Generation Sequencing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2875196/)
 * [2010 Detecting copy number variation with mated short reads](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2963824/) - [CNVer github](https://github.com/pashadag/Cnver)
 * [2011 CNVnator: An approach to discover, genotype, and characterize typical and atypical CNVs from family and population genome sequencing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3106330/) - [CNVnator github](https://github.com/abyzovlab/CNVnator)
+* [2011 Detecting common copy number variants in high-throughput sequencing data by using JointSLM algorithm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105418/)
+* [2011 ReadDepth: A Parallel R Package for Detecting Copy Number Alterations from Short Sequencing Reads](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016327)
 * [2012 DELLY: structural variant discovery by integrated paired-end and split-read analysis](https://academic.oup.com/bioinformatics/article/28/18/i333/245403/DELLY-structural-variant-discovery-by-integrated) - [github](https://github.com/dellytools/delly): Delly2 was the best sv caller in the [DREAM challenge]()
 * [2012 cn.MOPS: mixture of Poissons for discovering copy number variations in next-generation sequencing data with a low false discovery rate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351174/)
 * [2012 Control-FREEC: a tool for assessing copy number and allelic content using next-generation sequencing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3268243/) - [Control-FREEC github](https://github.com/BoevaLab/FREEC)
@@ -66,6 +70,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2014 The CNVrd2 package: measurement of copy number at complex loci using high-throughput sequencing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4117933/)
 * [2015 Wham: Identifying Structural Variants of Biological Consequence](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004572) - [github](https://github.com/zeeev/wham) - [mergeSVcallers](https://github.com/zeeev/mergeSVcallers)
 * [2015 MetaSV: an accurate and integrative structural-variant caller for next generation sequencing](https://academic.oup.com/bioinformatics/article/31/16/2741/321286/MetaSV-an-accurate-and-integrative-structural) - [github](http://bioinform.github.io/metasv/)
+* [2015 GROM-RD: resolving genomic biases to improve read depth detection of copy number variants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369336/)
 * [2016 Manta: rapid detection of structural variants and indels for germline and cancer sequencing applications](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv710) - [github](https://github.com/Illumina/manta)
 * [2016 FACETS: allele-specific copy number and clonal heterogeneity analysis tool for high-throughput DNA sequencing](https://academic.oup.com/nar/article/44/16/e131/2460163)
 > ... an ASCN tool and open-source software with a broad application to whole genome, whole-exome, as well as targeted panel sequencing platforms. 
@@ -92,6 +97,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Versatile Identification of Copy Number Variants with Canvas](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_12)
 * [2018 Identification of Copy Number Variants from SNP Arrays Using PennCNV](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_1)
 * [2018 Whole-Genome Shotgun Sequence CNV Detection Using Read Depth](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_4)
+* [2018 iCopyDAV: Integrated platform for copy number variations—Detection, annotation and visualization](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195334) - [iCopyDAV github](https://github.com/vogetihrsh/icopydav)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
