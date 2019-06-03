@@ -117,6 +117,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 LinkedSV: Detection of mosaic structural variants from linked-read exome and genome sequencing data](https://www.biorxiv.org/content/early/2018/10/10/409789)
 * [2019 Systematic and comprehensive benchmarking of an exome sequencing based germline copy-number variant detection pipeline in a clinical setting](https://www.biorxiv.org/content/10.1101/579755v1.abstract)
 * [2019 Comprehensively benchmarking applications for detecting copy number variation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007069)
+* [2019 Atlas-CNV: a validated approach to call single-exon CNVs in the eMERGESeq gene panel](https://www.nature.com/articles/s41436-019-0475-4)
 
 ## AS 
 * [2012 A robust model for read count data in exome sequencing experiments and implications for copy number variant calling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476336/)
