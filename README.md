@@ -98,6 +98,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Identification of Copy Number Variants from SNP Arrays Using PennCNV](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_1)
 * [2018 Whole-Genome Shotgun Sequence CNV Detection Using Read Depth](https://link.springer.com/protocol/10.1007/978-1-4939-8666-8_4)
 * [2018 iCopyDAV: Integrated platform for copy number variations—Detection, annotation and visualization](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195334) - [iCopyDAV github](https://github.com/vogetihrsh/icopydav)
+* [2019 Genotyping structural variants in pangenome graphs using the vg toolkit](https://www.biorxiv.org/content/10.1101/654566v1) - [vg github](https://github.com/vgteam/vg)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
