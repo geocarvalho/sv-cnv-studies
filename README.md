@@ -141,6 +141,8 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Validation of an ultra-fast CNV calling tool for Next Generation Sequencing data using MLPA-verified copy number alterations](https://www.biorxiv.org/content/early/2018/06/06/340505)
 * [2018 DeviCNV: detection and visualization of exon-level copy number variants in targeted next-generation sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2409-6)
 * [2018 Ximmer: a system for improving accuracy and consistency of CNV calling from exome data](https://academic.oup.com/gigascience/article/7/10/giy112/5091801)
+* [2019 Free-access copy-number variant detection tools for targeted next-generation sequencing data](https://www.sciencedirect.com/science/article/pii/S1383574218300371?via%3Dihub)
+> Our findings suggest that the best methods for CNV detection in tg-NGS panels are DECoN, ExomeDepth, and ExomeCNV. 
 
 ## RNAseq
 * [2018 CaSpER: Identification, visualization and integrative analysis of CNV events in multiscale resolution using single-cell or bulk RNA sequencing data](https://www.biorxiv.org/content/early/2018/09/26/426122)
