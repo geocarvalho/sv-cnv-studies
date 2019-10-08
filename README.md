@@ -73,7 +73,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2015 GROM-RD: resolving genomic biases to improve read depth detection of copy number variants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369336/)
 * [2016 Manta: rapid detection of structural variants and indels for germline and cancer sequencing applications](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv710) - [github](https://github.com/Illumina/manta)
 * [2016 FACETS: allele-specific copy number and clonal heterogeneity analysis tool for high-throughput DNA sequencing](https://academic.oup.com/nar/article/44/16/e131/2460163)
-> ... an ASCN tool and open-source software with a broad application to whole genome, whole-exome, as well as targeted panel sequencing platforms. 
+> ... an ASCN tool and open-source software with a broad application to whole genome, whole-exome, as well as targeted panel sequencing platforms.
 
 * [2017 SV2: Accurate Structural Variation Genotyping and De Novo Mutation Detection](http://biorxiv.org/content/early/2017/03/17/113498) - [github](https://github.com/dantaki/SV2)
 * [2017 GRIDSS: sensitive and specific genomic rearrangement detection using positional de Bruijn graph assembly](http://biorxiv.org/content/early/2017/02/21/110387) - [github](https://github.com/PapenfussLab/gridss)
@@ -101,6 +101,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2019 Genotyping structural variants in pangenome graphs using the vg toolkit](https://www.biorxiv.org/content/10.1101/654566v1) - [vg github](https://github.com/vgteam/vg)
 * [2019 Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z)
 * [2019 Comprehensive evaluation of structural variation detection algorithms for whole genome sequencing](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1720-5)
+* [2019 DL-CNV: A deep learning method for identifying copy number variations based on next generation target sequencing](https://www.aimspress.com/article/10.3934/mbe.2020011)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
