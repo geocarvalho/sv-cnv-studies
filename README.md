@@ -46,6 +46,8 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Assessment of the incorporation of CNV surveillance into gene panel next-generation sequencing testing for inherited retinal diseases](https://jmg.bmj.com/content/55/2/114)
 * [2018 Rare Copy Number Variations and Predictors in Children With Intellectual Disability and Epilepsy](https://www.frontiersin.org/articles/10.3389/fneur.2018.00947/full)
 * [2018 Whole-genome sequencing analysis of CNV using low-coverage and paired-end strategies is efficient and outperforms array-based CNV analysis](https://jmg.bmj.com/content/55/11/735)
+* [2019 Adapting ACMG/AMP sequence variant classification guidelines for single-gene copy number variants](https://www.nature.com/articles/s41436-019-0655-2)
+* [2019 Technical standards for the interpretation and reporting of constitutional copy-number variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics (ACMG) and the Clinical Genome Resource (ClinGen)](https://www.nature.com/articles/s41436-019-0686-8)
 
 
 ## Long read
