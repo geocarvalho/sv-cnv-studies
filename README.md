@@ -189,3 +189,4 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Detection of de novo copy number deletions from targeted sequencing of trios](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty677/5064107)
 * [2018 Bamgineer: Introduction of simulated allele-specific copy number variants into exome and targeted sequence data sets](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006080) - [github](https://github.com/pughlab/bamgineer)
 * [2018 Copy-number variants in clinical genome sequencing: deployment and interpretation for rare and undiagnosed disease](https://www.nature.com/articles/s41436-018-0295-y)
+* [ThousandVariantCallersRepo](https://github.com/deaconjs/ThousandVariantCallersRepo)
