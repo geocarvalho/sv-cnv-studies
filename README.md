@@ -76,6 +76,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 Manta: rapid detection of structural variants and indels for germline and cancer sequencing applications](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv710) - [github](https://github.com/Illumina/manta)
 * [2016 FACETS: allele-specific copy number and clonal heterogeneity analysis tool for high-throughput DNA sequencing](https://academic.oup.com/nar/article/44/16/e131/2460163)
 > ... an ASCN tool and open-source software with a broad application to whole genome, whole-exome, as well as targeted panel sequencing platforms.
+* [2019 Structural variant calling: the long and the short of it](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1828-7)
 
 * [2017 SV2: Accurate Structural Variation Genotyping and De Novo Mutation Detection](http://biorxiv.org/content/early/2017/03/17/113498) - [github](https://github.com/dantaki/SV2)
 * [2017 GRIDSS: sensitive and specific genomic rearrangement detection using positional de Bruijn graph assembly](http://biorxiv.org/content/early/2017/02/21/110387) - [github](https://github.com/PapenfussLab/gridss)
