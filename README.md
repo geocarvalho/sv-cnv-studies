@@ -4,6 +4,10 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 ---
 
 ## Background CNV and SV
+
+> Applied Computational Genomics - 11 - What is Structural Variation and how do we detect it?
+[![Applied Computational Genomics - 11 - What is Structural Variation and how do we detect it?](http://img.youtube.com/vi/Skfzw5LwJq0/0.jpg)](http://www.youtube.com/watch?v=Skfzw5LwJq0 "Applied Computational Genomics - 11 - What is Structural Variation and how do we detect it?")
+
 * [2008 Integrated detection and population-genetic analysis of SNPs and copy number variation](https://www.nature.com/articles/ng.238)
 * [2010 Origins and functional impact of copy number variation in the human genome](https://www.ncbi.nlm.nih.gov/pubmed/19812545)
 * [2011 Genome structural variation discovery and genotyping](http://www.nature.com/nrg/journal/v12/n5/full/nrg2958.html?foxtrotcallback=true)
