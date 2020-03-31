@@ -113,6 +113,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2019 Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z)
 * [2019 DL-CNV: A deep learning method for identifying copy number variations based on next generation target sequencing](https://www.aimspress.com/article/10.3934/mbe.2020011)
 * [2019 ClinCNV: novel method for allele-specific somatic copy-number alterations detection](https://www.biorxiv.org/content/10.1101/837971v1)
+* [2019 An open resource of structural variation for medical and population genetics](https://www.biorxiv.org/content/10.1101/578674v1)
 * [2020 SVXplorer: Three-tier approach to identification of structural variants via sequential recombination of discordant cluster signatures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007737)
 * [2020 sv-callers: a highly portable parallel workflow for structural variant detection in whole-genome sequence data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6951283/)
 
@@ -182,7 +183,8 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [CNView](https://github.com/RCollins13/CNView): Visualization, quantitation, and annotation of CNVs from population-scale whole-genome sequencing data.
 * [2015 svviz: a read viewer for validating structural variants](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv478) - [github](https://github.com/svviz/svviz)
 * [2016 Ribbon: Visualizing complex genome alignments and structural variation](http://biorxiv.org/content/early/2016/10/20/082123) - [github](https://github.com/MariaNattestad/Ribbon)
-* [samplot:](https://github.com/ryanlayer/samplot)
+* [samplot:](https://github.com/ryanlayer/samplot
+* [New Genome Browser (NGB) is a Web client-server tool that has been developed with the several key distinctive features in mind](https://github.com/epam/NGB)
 
 ## Orchestrators
 * [CNV-patissier github](https://github.com/stefpiatek/cnv-patissier)
@@ -202,3 +204,4 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Bamgineer: Introduction of simulated allele-specific copy number variants into exome and targeted sequence data sets](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006080) - [github](https://github.com/pughlab/bamgineer)
 * [2018 Copy-number variants in clinical genome sequencing: deployment and interpretation for rare and undiagnosed disease](https://www.nature.com/articles/s41436-018-0295-y)
 * [ThousandVariantCallersRepo](https://github.com/deaconjs/ThousandVariantCallersRepo)
+* [2020 https://academic.oup.com/bioinformatics/article-abstract/36/4/1267/5582674?redirectedFrom=fulltext](https://academic.oup.com/bioinformatics/article-abstract/36/4/1267/5582674?redirectedFrom=fulltext)
