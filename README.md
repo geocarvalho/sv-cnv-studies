@@ -109,6 +109,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2019 Genotyping structural variants in pangenome graphs using the vg toolkit](https://www.biorxiv.org/content/10.1101/654566v1) - [vg github](https://github.com/vgteam/vg)
 * [2019 Multi-platform discovery of haplotype-resolved structural variation in human genomes](https://www.nature.com/articles/s41467-018-08148-z)
 * [2019 Comprehensive evaluation of structural variation detection algorithms for whole genome sequencing](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1720-5)
+* [2019 Comprehensive evaluation and characterisation of short read general-purpose structural variant calling software](https://www.nature.com/articles/s41467-019-11146-4)
 * [2019 DL-CNV: A deep learning method for identifying copy number variations based on next generation target sequencing](https://www.aimspress.com/article/10.3934/mbe.2020011)
 * [2019 ClinCNV: novel method for allele-specific somatic copy-number alterations detection](https://www.biorxiv.org/content/10.1101/837971v1)
 * [2020 SVXplorer: Three-tier approach to identification of structural variants via sequential recombination of discordant cluster signatures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007737)
