@@ -172,6 +172,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2019 Duphold: scalable, depth-based annotation and curation of high-confidence structural variant calls](https://academic.oup.com/gigascience/article/8/4/giz040/5477467)
 
 ## Visualization
+* [CNVgram: Draw CNV diagrams](https://github.com/cc2qe/cnvgram)
 * [CNVplot](https://github.com/dantaki/CNVplot): Plot CNV data with a genome viewer in R.
 * [cnvgram](https://github.com/cc2qe/cnvgram): Draw CNV diagrams.
 * [Stupid Simple Structural Variant View](https://github.com/ryanlayer/svv): A two-step process that can help visualize the coverage near a variant across multiple BAMs.
