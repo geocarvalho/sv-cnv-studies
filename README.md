@@ -137,6 +137,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2019 Systematic and comprehensive benchmarking of an exome sequencing based germline copy-number variant detection pipeline in a clinical setting](https://www.biorxiv.org/content/10.1101/579755v1.abstract)
 * [2019 Comprehensively benchmarking applications for detecting copy number variation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007069)
 * [2019 Atlas-CNV: a validated approach to call single-exon CNVs in the eMERGESeq gene panel](https://www.nature.com/articles/s41436-019-0475-4)
+* [A highly sensitive and specific workflow for detecting rare copy-number variants from exome sequencing data](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-0712-0)
 
 ## AS 
 * [2012 A robust model for read count data in exome sequencing experiments and implications for copy number variant calling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476336/)
@@ -205,4 +206,5 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Bamgineer: Introduction of simulated allele-specific copy number variants into exome and targeted sequence data sets](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006080) - [github](https://github.com/pughlab/bamgineer)
 * [2018 Copy-number variants in clinical genome sequencing: deployment and interpretation for rare and undiagnosed disease](https://www.nature.com/articles/s41436-018-0295-y)
 * [ThousandVariantCallersRepo](https://github.com/deaconjs/ThousandVariantCallersRepo)
-* [2020 https://academic.oup.com/bioinformatics/article-abstract/36/4/1267/5582674?redirectedFrom=fulltext](https://academic.oup.com/bioinformatics/article-abstract/36/4/1267/5582674?redirectedFrom=fulltext)
+* [2020 VISOR: a versatile haplotype-aware structural variant simulator for short- and long-read sequencing](https://academic.oup.com/bioinformatics/article-abstract/36/4/1267/5582674?redirectedFrom=fulltext)
+* [2020 SECNVs: A Simulator of Copy Number Variants and Whole-Exome Sequences From Reference Genomes](https://www.frontiersin.org/articles/10.3389/fgene.2020.00082/full)
