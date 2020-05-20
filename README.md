@@ -114,6 +114,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2019 DL-CNV: A deep learning method for identifying copy number variations based on next generation target sequencing](https://www.aimspress.com/article/10.3934/mbe.2020011)
 * [2019 ClinCNV: novel method for allele-specific somatic copy-number alterations detection](https://www.biorxiv.org/content/10.1101/837971v1)
 * [2019 An open resource of structural variation for medical and population genetics](https://www.biorxiv.org/content/10.1101/578674v1)
+* [2019 GRIDSS, PURPLE, LINX: Unscrambling the tumor genome via integrated analysis of structural variation and copy number](https://www.biorxiv.org/content/10.1101/781013v1)
 * [2020 SVXplorer: Three-tier approach to identification of structural variants via sequential recombination of discordant cluster signatures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007737)
 * [2020 sv-callers: a highly portable parallel workflow for structural variant detection in whole-genome sequence data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6951283/)
 * [2020 Copy number signature analyses in prostate cancer reveal distinct etiologies and clinical outcomes](https://www.medrxiv.org/content/10.1101/2020.04.27.20082404v1)
