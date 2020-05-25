@@ -141,7 +141,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2019 Systematic and comprehensive benchmarking of an exome sequencing based germline copy-number variant detection pipeline in a clinical setting](https://www.biorxiv.org/content/10.1101/579755v1.abstract)
 * [2019 Comprehensively benchmarking applications for detecting copy number variation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007069)
 * [2019 Atlas-CNV: a validated approach to call single-exon CNVs in the eMERGESeq gene panel](https://www.nature.com/articles/s41436-019-0475-4)
-* [A highly sensitive and specific workflow for detecting rare copy-number variants from exome sequencing data](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-0712-0)
+* [2020 A highly sensitive and specific workflow for detecting rare copy-number variants from exome sequencing data](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-0712-0)
 
 ## AS 
 * [2012 A robust model for read count data in exome sequencing experiments and implications for copy number variant calling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476336/)
@@ -191,6 +191,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2016 Ribbon: Visualizing complex genome alignments and structural variation](http://biorxiv.org/content/early/2016/10/20/082123) - [github](https://github.com/MariaNattestad/Ribbon)
 * [samplot:](https://github.com/ryanlayer/samplot
 * [New Genome Browser (NGB) is a Web client-server tool that has been developed with the several key distinctive features in mind](https://github.com/epam/NGB)
+* [2020 Learning What a Good Structural Variant Looks Like](https://www.biorxiv.org/content/10.1101/2020.05.22.111260v1) - [samplot github](https://github.com/ryanlayer/samplot)
 
 ## Orchestrators
 * [CNV-patissier github](https://github.com/stefpiatek/cnv-patissier)
