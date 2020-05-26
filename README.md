@@ -214,4 +214,5 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2020 SECNVs: A Simulator of Copy Number Variants and Whole-Exome Sequences From Reference Genomes](https://www.frontiersin.org/articles/10.3389/fgene.2020.00082/full)
 * [SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - is a tool set for simulating/evaluating SVs, merging and comparing SVs within and among samples, and includes various methods to reformat or summarize SVs.
 * [EvalSVcallers](https://github.com/stat-lab/EvalSVcallers)
+* [svimmer - SV merging tool](https://github.com/DecodeGenetics/svimmer)
 
