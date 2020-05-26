@@ -53,6 +53,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2019 Adapting ACMG/AMP sequence variant classification guidelines for single-gene copy number variants](https://www.nature.com/articles/s41436-019-0655-2)
 * [2019 Technical standards for the interpretation and reporting of constitutional copy-number variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics (ACMG) and the Clinical Genome Resource (ClinGen)](https://www.nature.com/articles/s41436-019-0686-8)
 * [2020 Structural variation in the sequencing era](https://www.nature.com/articles/s41576-019-0180-9)
+* [2020 Population Structure, Stratification and Introgression of Human Structural Variation](https://www.biorxiv.org/content/10.1101/746172v2.full#ref-14)
 
 
 ## Long read
@@ -78,6 +79,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2015 Wham: Identifying Structural Variants of Biological Consequence](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004572) - [github](https://github.com/zeeev/wham) - [mergeSVcallers](https://github.com/zeeev/mergeSVcallers)
 * [2015 MetaSV: an accurate and integrative structural-variant caller for next generation sequencing](https://academic.oup.com/bioinformatics/article/31/16/2741/321286/MetaSV-an-accurate-and-integrative-structural) - [github](http://bioinform.github.io/metasv/)
 * [2015 GROM-RD: resolving genomic biases to improve read depth detection of copy number variants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369336/)
+* [2015 Large multiallelic copy number variations in humans](https://www.nature.com/articles/ng.3200) - [GenomeSTRiP](http://www.broadinstitute.org/software/genomestrip)
 * [2016 Manta: rapid detection of structural variants and indels for germline and cancer sequencing applications](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv710) - [github](https://github.com/Illumina/manta)
 * [2016 FACETS: allele-specific copy number and clonal heterogeneity analysis tool for high-throughput DNA sequencing](https://academic.oup.com/nar/article/44/16/e131/2460163)
 > ... an ASCN tool and open-source software with a broad application to whole genome, whole-exome, as well as targeted panel sequencing platforms.
