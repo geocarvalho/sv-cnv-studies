@@ -197,6 +197,10 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [Ximmer github](https://github.com/ssadedin/ximmer)
 * [megSAP github](https://github.com/imgag/megSAP)
 
+## Blacklists
+* [10x Genomics SV calling filter files](https://support.10xgenomics.com/genome-exome/software/pipelines/latest/advanced/references)
+* [2019 The ENCODE Blacklist: Identification of Problematic Regions of the Genome](https://www.nature.com/articles/s41598-019-45839-z) - [github blacklist](https://github.com/Boyle-Lab/Blacklist)
+
 ## Others
 * [SVsim](https://github.com/GregoryFaust/SVsim): a tool that generates synthetic Structural Variant calls as benchmarks to test/evaluate SV calling pipelines.
 * [Structural Variant Catalog](https://github.com/tobiasrausch/svcatalog): A repository for human genetic structural variants (SVs) discovered by Delly in the 1000 Genomes cohort of samples.
