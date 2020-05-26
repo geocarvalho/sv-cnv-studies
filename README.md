@@ -219,4 +219,5 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - is a tool set for simulating/evaluating SVs, merging and comparing SVs within and among samples, and includes various methods to reformat or summarize SVs.
 * [EvalSVcallers](https://github.com/stat-lab/EvalSVcallers)
 * [svimmer - SV merging tool](https://github.com/DecodeGenetics/svimmer)
+* [High-confidence structural variant calls for RM8398](https://groups.google.com/forum/#!msg/genome-in-a-bottle/v3EDUgZT0Xo/eGYsQlJk2JMJ)
 
