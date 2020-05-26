@@ -170,7 +170,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2018 CNVkit-RNA: Copy number inference from RNA-Sequencing data](https://www.biorxiv.org/content/early/2018/09/04/408534?rss=1) - [youtube tutorial](https://www.youtube.com/watch?v=JGOIXYoLG6w&feature=youtu.be)
 
 ## Annotation
-* [StructuralVariantAnnotation](https://github.com/PapenfussLab/StructuralVariantAnnotation): contains useful helper functions for dealing with structural variants in VCF format.
+* [2011 SVA: software for annotating and visualizing sequenced human genomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3129530/) - [StructuralVariantAnnotation](https://github.com/PapenfussLab/StructuralVariantAnnotation): contains useful helper functions for dealing with structural variants in VCF format.
 * [2015 SpeedSeq: ultra-fast personal genome analysis and interpretation](http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3505.html) - SVTyper - [github](https://github.com/hall-lab/svtyper)
 * [2016 SVScore: an impact prediction tool for structural variation](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btw789/2748212/SVScore-an-impact-prediction-tool-for-structural) - [github](https://github.com/lganel/SVScore)
 * [2016 Prioritisation of Structural Variant Calls in Cancer Genomes](http://biorxiv.org/content/early/2016/11/04/084640) - [github](https://github.com/AstraZeneca-NGS/simple_sv_annotation)
@@ -213,4 +213,6 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [ThousandVariantCallersRepo](https://github.com/deaconjs/ThousandVariantCallersRepo)
 * [2020 VISOR: a versatile haplotype-aware structural variant simulator for short- and long-read sequencing](https://academic.oup.com/bioinformatics/article-abstract/36/4/1267/5582674?redirectedFrom=fulltext)
 * [2020 SECNVs: A Simulator of Copy Number Variants and Whole-Exome Sequences From Reference Genomes](https://www.frontiersin.org/articles/10.3389/fgene.2020.00082/full)
-* [SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - is a tool set for simulating/evaluating SVs, merging and comparing SVs within and among samples, and includes various methods to reformat or summarize SVs. 
+* [SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - is a tool set for simulating/evaluating SVs, merging and comparing SVs within and among samples, and includes various methods to reformat or summarize SVs.
+* [EvalSVcallers](https://github.com/stat-lab/EvalSVcallers)
+
