@@ -54,6 +54,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2019 Technical standards for the interpretation and reporting of constitutional copy-number variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics (ACMG) and the Clinical Genome Resource (ClinGen)](https://www.nature.com/articles/s41436-019-0686-8)
 * [2020 Structural variation in the sequencing era](https://www.nature.com/articles/s41576-019-0180-9)
 * [2020 Population Structure, Stratification and Introgression of Human Structural Variation](https://www.biorxiv.org/content/10.1101/746172v2.full#ref-14)
+* [2020 Mapping and characterization of structural variation in 17,795 human genomes](https://www.nature.com/articles/s41586-020-2371-0)
 
 
 ## Long read
