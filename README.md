@@ -55,6 +55,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2020 Structural variation in the sequencing era](https://www.nature.com/articles/s41576-019-0180-9)
 * [2020 Population Structure, Stratification and Introgression of Human Structural Variation](https://www.biorxiv.org/content/10.1101/746172v2.full#ref-14)
 * [2020 Mapping and characterization of structural variation in 17,795 human genomes](https://www.nature.com/articles/s41586-020-2371-0)
+* [2020 A structural variation reference for medical and population genetics](https://www.nature.com/articles/s41586-020-2287-8)
 
 
 ## Long read
