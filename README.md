@@ -98,6 +98,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 FusorSV: an algorithm for optimally combining data from multiple structural variation detection methods](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1404-6)
 * [2018 SvABA: genome-wide detection of structural variants and indels by local assembly](https://genome.cshlp.org/content/28/4/581.abstract?platform=hootsuite)
 * [2018 Global characterization of copy number variants in epilepsy patients from whole genome sequencing](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007285)
+* [2018 An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder](https://www.nature.com/articles/s41588-018-0107-y)
 * [2018 Human copy number variants are enriched in regions of low mappability](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky538/5042037#.Wy09sMRev6o.twitter)
 * [2018 MSeq-CNV: accurate detection of Copy Number Variation from Sequencing of Multiple samples](https://www.nature.com/articles/s41598-018-22323-8)
 * [2018 CoNVaQ: a web tool for copy number variation-based association studies](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4732-8?utm_source=Springer_Nature_website&utm_medium=Referral_link&utm_content=ChrBigs-SN-OD-Genetics-Global&utm_campaign=SNOR_USG_ASHG18_LP)
