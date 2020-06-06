@@ -227,4 +227,5 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [EvalSVcallers](https://github.com/stat-lab/EvalSVcallers)
 * [svimmer - SV merging tool](https://github.com/DecodeGenetics/svimmer)
 * [High-confidence structural variant calls for RM8398](https://groups.google.com/forum/#!msg/genome-in-a-bottle/v3EDUgZT0Xo/eGYsQlJk2JMJ)
+* [Polaris - truth set of Structural Variants (SVs)](https://github.com/Illumina/Polaris)
 
