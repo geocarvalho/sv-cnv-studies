@@ -198,6 +198,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [CNView](https://github.com/RCollins13/CNView): Visualization, quantitation, and annotation of CNVs from population-scale whole-genome sequencing data.
 * [2015 svviz: a read viewer for validating structural variants](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv478) - [github](https://github.com/svviz/svviz)
 * [2016 Ribbon: Visualizing complex genome alignments and structural variation](http://biorxiv.org/content/early/2016/10/20/082123) - [github](https://github.com/MariaNattestad/Ribbon)
+* [2018 SV-plaudit: A cloud-based framework for manually curating thousands of structural variants](https://academic.oup.com/gigascience/article/7/7/giy064/5026174) - [github](https://github.com/jbelyeu/SV-plaudit)
 * [New Genome Browser (NGB) is a Web client-server tool that has been developed with the several key distinctive features in mind](https://github.com/epam/NGB)
 * [2020 Learning What a Good Structural Variant Looks Like](https://www.biorxiv.org/content/10.1101/2020.05.22.111260v1) - [samplot github](https://github.com/ryanlayer/samplot)
 
