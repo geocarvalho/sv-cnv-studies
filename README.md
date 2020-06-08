@@ -128,6 +128,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [Spinal muscular atrophy diagnosis and carrier screening from genome sequencing data
 ](https://www.nature.com/articles/s41436-020-0754-0) - [
 SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
+* [2020 Increased burden of ultra-rare structural variants localizing to boundaries of topologically associated domains in schizophrenia](https://www.nature.com/articles/s41467-020-15707-w)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
