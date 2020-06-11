@@ -87,8 +87,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2016 Manta: rapid detection of structural variants and indels for germline and cancer sequencing applications](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv710) - [github](https://github.com/Illumina/manta)
 * [2016 FACETS: allele-specific copy number and clonal heterogeneity analysis tool for high-throughput DNA sequencing](https://academic.oup.com/nar/article/44/16/e131/2460163)
 > ... an ASCN tool and open-source software with a broad application to whole genome, whole-exome, as well as targeted panel sequencing platforms.
-* [2019 Structural variant calling: the long and the short of it](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1828-7)
-
+* [2016 svclassify: a method to establish benchmark structural variant calls](https://link.springer.com/article/10.1186/s12864-016-2366-2)
 * [2017 SV2: Accurate Structural Variation Genotyping and De Novo Mutation Detection](http://biorxiv.org/content/early/2017/03/17/113498) - [github](https://github.com/dantaki/SV2)
 * [2017 GRIDSS: sensitive and specific genomic rearrangement detection using positional de Bruijn graph assembly](http://biorxiv.org/content/early/2017/02/21/110387) - [github](https://github.com/PapenfussLab/gridss)
 * [2017 Detection of complex structural variation from paired-end sequencing data](https://www.biorxiv.org/content/early/2017/10/08/200170?rss=1)
@@ -122,7 +121,8 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2019 ClinCNV: novel method for allele-specific somatic copy-number alterations detection](https://www.biorxiv.org/content/10.1101/837971v1)
 * [2019 An open resource of structural variation for medical and population genetics](https://www.biorxiv.org/content/10.1101/578674v1)
 * [2019 SurVIndel: Improving CNV Calling From High-Throughput Sequencing Data Through Statistical Testing](https://pubmed.ncbi.nlm.nih.gov/30989231/)
-* [2019 GRIDSS, PURPLE, LINX: Unscrambling the tumor genome via integrated analysis of structural variation and copy number](https://www.biorxiv.org/content/10.1101/781013v1)
+* [2019 GRIDSS, PURPLE, LINX: Unscrambling the tumor genome via integrated analysis of structural variation and copy number](https://www.biorxiv.org/content/10.1101/781013v1)Add 
+* [2019 Structural variant calling: the long and the short of it](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1828-7)
 * [2020 SVXplorer: Three-tier approach to identification of structural variants via sequential recombination of discordant cluster signatures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007737)
 * [2020 sv-callers: a highly portable parallel workflow for structural variant detection in whole-genome sequence data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6951283/) - [github](https://github.com/GooglingTheCancerGenome/sv-callers)
 * [2020 Copy number signature analyses in prostate cancer reveal distinct etiologies and clinical outcomes](https://www.medrxiv.org/content/10.1101/2020.04.27.20082404v1)
