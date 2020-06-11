@@ -79,6 +79,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2013 CNVeM: Copy Number Variation Detection Using Uncertainty of Read Mapping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3590897/)
 * [2014 LUMPY: a probabilistic framework for structural variant discovery](http://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-6-r84) - [github](https://github.com/arq5x/lumpy-sv)
 * [2014 The CNVrd2 package: measurement of copy number at complex loci using high-throughput sequencing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4117933/)
+* [2015 An integrated map of structural variation in 2,504 human genomes](https://www.nature.com/articles/nature15394)
 * [2015 Wham: Identifying Structural Variants of Biological Consequence](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004572) - [github](https://github.com/zeeev/wham) - [mergeSVcallers](https://github.com/zeeev/mergeSVcallers)
 * [2015 MetaSV: an accurate and integrative structural-variant caller for next generation sequencing](https://academic.oup.com/bioinformatics/article/31/16/2741/321286/MetaSV-an-accurate-and-integrative-structural) - [github](http://bioinform.github.io/metasv/)
 * [2015 GROM-RD: resolving genomic biases to improve read depth detection of copy number variants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369336/)
@@ -129,6 +130,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 ](https://www.nature.com/articles/s41436-020-0754-0) - [
 SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2020 Increased burden of ultra-rare structural variants localizing to boundaries of topologically associated domains in schizophrenia](https://www.nature.com/articles/s41467-020-15707-w)
+* [2020 Discovery and quality analysis of a comprehensive set of structural variants and short tandem repeats](https://www.nature.com/articles/s41467-020-16481-5#MOESM4)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
