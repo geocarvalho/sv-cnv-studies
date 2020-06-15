@@ -57,6 +57,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
  - [SVanalyzer - Just as it does for small insertions and deletions, sequence similarity at the
 boundaries of large insertions and deletions can make the precise specification
 of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanalyzer)
+ - [2020 A robust benchmark for detection of germline large deletions and insertions](https://www.nature.com/articles/s41587-020-0538-8)
 * [2020 Structural variation in the sequencing era](https://www.nature.com/articles/s41576-019-0180-9)
 * [2020 Population Structure, Stratification and Introgression of Human Structural Variation](https://www.biorxiv.org/content/10.1101/746172v2.full#ref-14)
 * [2020 Mapping and characterization of structural variation in 17,795 human genomes](https://www.nature.com/articles/s41586-020-2371-0)
