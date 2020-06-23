@@ -184,6 +184,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 ## RNAseq
 * [2018 CaSpER: Identification, visualization and integrative analysis of CNV events in multiscale resolution using single-cell or bulk RNA sequencing data](https://www.biorxiv.org/content/early/2018/09/26/426122)
 * [2018 CNVkit-RNA: Copy number inference from RNA-Sequencing data](https://www.biorxiv.org/content/early/2018/09/04/408534?rss=1) - [youtube tutorial](https://www.youtube.com/watch?v=JGOIXYoLG6w&feature=youtu.be)
+* [2020 Detecting copy number alterations in RNA-Seq using SuperFreq](https://www.biorxiv.org/content/10.1101/2020.05.31.126888v1.abstract)
 
 ## Annotation
 * [SVTK - Utilities for consolidating, filtering, resolving, and annotating structural variants](https://github.com/talkowski-lab/svtk)
