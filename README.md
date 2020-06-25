@@ -210,6 +210,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2018 SV-plaudit: A cloud-based framework for manually curating thousands of structural variants](https://academic.oup.com/gigascience/article/7/7/giy064/5026174) - [github](https://github.com/jbelyeu/SV-plaudit)
 * [New Genome Browser (NGB) is a Web client-server tool that has been developed with the several key distinctive features in mind](https://github.com/epam/NGB)
 * [2020 Learning What a Good Structural Variant Looks Like](https://www.biorxiv.org/content/10.1101/2020.05.22.111260v1) - [samplot github](https://github.com/ryanlayer/samplot)
+* [2020 A crowdsourced set of curated structural variants for the human genome](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007933) - [SVCurator](http://www.svcurator.com/)
 
 ## Orchestrators
 * [CNV-patissier github](https://github.com/stefpiatek/cnv-patissier)
