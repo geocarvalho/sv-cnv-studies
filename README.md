@@ -200,6 +200,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2018 VarAFT: a variant annotation and filtration system for human next generation sequencing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030844/)
 * [2019 An open resource of structural variation for medical and population genetics](https://www.biorxiv.org/content/10.1101/578674v1)
 * [2019 Duphold: scalable, depth-based annotation and curation of high-confidence structural variant calls](https://academic.oup.com/gigascience/article/8/4/giz040/5477467)
+* [nanotatoR: structural variant annotation and classification](https://github.com/VilainLab/nanotatoR) - [tutorial](https://github.com/VilainLab/nanotatoR)
 
 ## Visualization
 * [CNVgram: Draw CNV diagrams](https://github.com/cc2qe/cnvgram)
