@@ -62,6 +62,7 @@ of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanal
 * [2020 Population Structure, Stratification and Introgression of Human Structural Variation](https://www.biorxiv.org/content/10.1101/746172v2.full#ref-14)
 * [2020 Mapping and characterization of structural variation in 17,795 human genomes](https://www.nature.com/articles/s41586-020-2371-0)
 * [2020 A structural variation reference for medical and population genetics](https://www.nature.com/articles/s41586-020-2287-8)
+* [2020 Comparative study of whole exome sequencing-based copy number variation detection tools](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3421-1#Sec20)
 
 
 ## Long read
