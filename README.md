@@ -140,6 +140,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2020 Discovery and quality analysis of a comprehensive set of structural variants and short tandem repeats](https://www.nature.com/articles/s41467-020-16481-5#MOESM4)
 * [2020 A comprehensive benchmarking of WGS-based structural variant callers](https://www.biorxiv.org/content/10.1101/2020.04.16.045120v5)
 * [2021 Mako: a graph-based pattern growth approach to detect complex structural variants](https://www.biorxiv.org/content/10.1101/2021.03.01.433465v1.full) - [github](https://github.com/jiadong324/Mako)
+* [2021 A comparison of tools for copy-number variation detection in germline whole exome and whole genome sequencing data](https://www.biorxiv.org/content/10.1101/2021.04.30.442110v1.full)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
