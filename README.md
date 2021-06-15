@@ -68,6 +68,11 @@ of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanal
 ## Long read
 * [2017 Mapping and phasing of structural variation in patient genomes using nanopore sequencing](https://www.nature.com/articles/s41467-017-01343-4) - [github](https://github.com/mroosmalen/nanosv)
 * [2018 NextSV: a meta-caller for structural variants from low-coverage long-read sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2207-1)
+* [2021 Genotyping common, large structural variations in 5,202 genomes using pangenomes, the Giraffe mapper, and the vg toolkit](https://www.biorxiv.org/content/10.1101/2020.12.04.412486v2)
+* [2021 Comparison of structural variants detected by optical mapping with long-read next-generation sequencing](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab359/6275264)
+* [2021 Vulcan: Improved long-read mapping and structural variant calling via dual-mode alignment](https://www.biorxiv.org/content/10.1101/2021.05.29.446291v1)
+* [2021 Dysgu: efficient structural variant calling using short or long reads](https://www.biorxiv.org/content/10.1101/2021.05.28.446147v1)
+* [2021 Jasmine: Population-scale structural variant comparison and analysis](https://www.biorxiv.org/content/10.1101/2021.05.27.445886v1)
 
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
@@ -158,6 +163,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2017 WISExome: a within-sample comparison approach to detect copy number variations in whole exome sequencing data](https://www.nature.com/articles/s41431-017-0005-2)
 * [2018 A Comprehensive Workflow for Read Depth-Based Identification of Copy-Number Variation from Whole-Genome Sequence Data](http://www.cell.com/ajhg/abstract/S0002-9297(17)30496-2) - [github](https://github.com/bjtrost/TCAG-WGS-CNV-workflow)
 * [2018 LinkedSV: Detection of mosaic structural variants from linked-read exome and genome sequencing data](https://www.biorxiv.org/content/early/2018/10/10/409789)
+* [2018 Ximmer: a system for improving accuracy and consistency of CNV calling from exome data](https://academic.oup.com/gigascience/article/7/10/giy112/5091801?login=true)
 * [2019 Systematic and comprehensive benchmarking of an exome sequencing based germline copy-number variant detection pipeline in a clinical setting](https://www.biorxiv.org/content/10.1101/579755v1.abstract)
 * [2019 Comprehensively benchmarking applications for detecting copy number variation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007069)
 * [2019 Atlas-CNV: a validated approach to call single-exon CNVs in the eMERGESeq gene panel](https://www.nature.com/articles/s41436-019-0475-4)
