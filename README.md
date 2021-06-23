@@ -70,6 +70,7 @@ of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanal
 * [2018 NextSV: a meta-caller for structural variants from low-coverage long-read sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2207-1)
 * [2021 Genotyping common, large structural variations in 5,202 genomes using pangenomes, the Giraffe mapper, and the vg toolkit](https://www.biorxiv.org/content/10.1101/2020.12.04.412486v2)
 * [2021 Comparison of structural variants detected by optical mapping with long-read next-generation sequencing](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab359/6275264)
+* [2021 Long-read sequencing of 3,622 Icelanders provides insight into the role of structural variants in human diseases and other traits](https://www.nature.com/articles/s41588-021-00865-4) - [SViper github](https://github.com/smehringer/SViper)
 * [2021 Vulcan: Improved long-read mapping and structural variant calling via dual-mode alignment](https://www.biorxiv.org/content/10.1101/2021.05.29.446291v1)
 * [2021 Dysgu: efficient structural variant calling using short or long reads](https://www.biorxiv.org/content/10.1101/2021.05.28.446147v1)
 * [2021 Jasmine: Population-scale structural variant comparison and analysis](https://www.biorxiv.org/content/10.1101/2021.05.27.445886v1)
