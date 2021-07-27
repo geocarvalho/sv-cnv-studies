@@ -224,6 +224,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [New Genome Browser (NGB) is a Web client-server tool that has been developed with the several key distinctive features in mind](https://github.com/epam/NGB)
 * [2020 Learning What a Good Structural Variant Looks Like](https://www.biorxiv.org/content/10.1101/2020.05.22.111260v1) - [samplot github](https://github.com/ryanlayer/samplot)
 * [2020 A crowdsourced set of curated structural variants for the human genome](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007933) - [SVCurator](http://www.svcurator.com/)
+* [2021 Samplot: a platform for structural variant visual validation and automated filtering](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02380-5)
 
 ## Orchestrators
 * [CNV-patissier github](https://github.com/stefpiatek/cnv-patissier)
