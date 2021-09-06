@@ -140,6 +140,7 @@ of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanal
 * [2019 SurVIndel: Improving CNV Calling From High-Throughput Sequencing Data Through Statistical Testing](https://pubmed.ncbi.nlm.nih.gov/30989231/)
 * [2019 GRIDSS, PURPLE, LINX: Unscrambling the tumor genome via integrated analysis of structural variation and copy number](https://www.biorxiv.org/content/10.1101/781013v1)Add 
 * [2019 Structural variant calling: the long and the short of it](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1828-7)
+* [2019 Paragraph: a graph-based structural variant genotyper for short-read sequence data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1909-7) - [github](https://github.com/Illumina/paragraph)
 * [2020 SVXplorer: Three-tier approach to identification of structural variants via sequential recombination of discordant cluster signatures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007737)
 * [2020 sv-callers: a highly portable parallel workflow for structural variant detection in whole-genome sequence data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6951283/) - [github](https://github.com/GooglingTheCancerGenome/sv-callers)
 * [2020 Copy number signature analyses in prostate cancer reveal distinct etiologies and clinical outcomes](https://www.medrxiv.org/content/10.1101/2020.04.27.20082404v1)
@@ -259,4 +260,5 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [svimmer - SV merging tool](https://github.com/DecodeGenetics/svimmer)
 * [High-confidence structural variant calls for RM8398](https://groups.google.com/forum/#!msg/genome-in-a-bottle/v3EDUgZT0Xo/eGYsQlJk2JMJ)
 * [Polaris - truth set of Structural Variants (SVs)](https://github.com/Illumina/Polaris)
+* [Princess is a fast and scalable framework to detect and report haplotype resolved Single Nucleotide Variants (SNV) and Structural Variations (SVs) at scale.](https://github.com/MeHelmy/princess)
 
