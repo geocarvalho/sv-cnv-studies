@@ -68,6 +68,10 @@ of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanal
 ## Long read
 * [2017 Mapping and phasing of structural variation in patient genomes using nanopore sequencing](https://www.nature.com/articles/s41467-017-01343-4) - [github](https://github.com/mroosmalen/nanosv)
 * [2018 NextSV: a meta-caller for structural variants from low-coverage long-read sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2207-1)
+* [2019 Structural variants identified by Oxford Nanopore PromethION sequencing of the human genome](https://genome.cshlp.org/content/29/7/1178.short) - [github](https://github.com/fritzsedlazeck/Sniffles)
+* [2019 SVIM: structural variant identification using mapped long reads](https://academic.oup.com/bioinformatics/article/35/17/2907/5298305?login=true)
+* [2020 NanoVar: accurate characterization of patients’ genomic structural variants using low-depth nanopore sequencing])(https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01968-7)
+* [2020 Long-read-based human genomic structural variation detection with cuteSV](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02107-y)
 * [2021 Genotyping common, large structural variations in 5,202 genomes using pangenomes, the Giraffe mapper, and the vg toolkit](https://www.biorxiv.org/content/10.1101/2020.12.04.412486v2)
 * [2021 Comparison of structural variants detected by optical mapping with long-read next-generation sequencing](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab359/6275264)
 * [2021 Long-read sequencing of 3,622 Icelanders provides insight into the role of structural variants in human diseases and other traits](https://www.nature.com/articles/s41588-021-00865-4) - [SViper github](https://github.com/smehringer/SViper)
