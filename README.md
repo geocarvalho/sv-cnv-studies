@@ -78,6 +78,7 @@ of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanal
 * [2021 Vulcan: Improved long-read mapping and structural variant calling via dual-mode alignment](https://www.biorxiv.org/content/10.1101/2021.05.29.446291v1)
 * [2021 Dysgu: efficient structural variant calling using short or long reads](https://www.biorxiv.org/content/10.1101/2021.05.28.446147v1)
 * [2021 Jasmine: Population-scale structural variant comparison and analysis](https://www.biorxiv.org/content/10.1101/2021.05.27.445886v1)
+* [2021 PRINCESS: comprehensive detection of haplotype resolved SNVs, SVs, and methylation](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02486-w) - [github](https://github.com/MeHelmy/princess)
 
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
@@ -260,5 +261,3 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [svimmer - SV merging tool](https://github.com/DecodeGenetics/svimmer)
 * [High-confidence structural variant calls for RM8398](https://groups.google.com/forum/#!msg/genome-in-a-bottle/v3EDUgZT0Xo/eGYsQlJk2JMJ)
 * [Polaris - truth set of Structural Variants (SVs)](https://github.com/Illumina/Polaris)
-* [Princess is a fast and scalable framework to detect and report haplotype resolved Single Nucleotide Variants (SNV) and Structural Variations (SVs) at scale.](https://github.com/MeHelmy/princess)
-
