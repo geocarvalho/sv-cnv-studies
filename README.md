@@ -156,7 +156,6 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2021 Mako: a graph-based pattern growth approach to detect complex structural variants](https://www.biorxiv.org/content/10.1101/2021.03.01.433465v1.full) - [github](https://github.com/jiadong324/Mako)
 * [2021 A comparison of tools for copy-number variation detection in germline whole exome and whole genome sequencing data](https://www.biorxiv.org/content/10.1101/2021.04.30.442110v1.full)
 * [2021 Population-scale detection of non-reference sequence variants using colored de Bruijn graphs](https://academic.oup.com/bioinformatics/article/38/3/604/6415820)
-* [2021 Dysgu: efficient structural variant calling using short or long reads](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac039/6517943?login=false)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
