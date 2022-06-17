@@ -222,6 +222,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2019 Duphold: scalable, depth-based annotation and curation of high-confidence structural variant calls](https://academic.oup.com/gigascience/article/8/4/giz040/5477467)
 * [nanotatoR: structural variant annotation and classification](https://github.com/VilainLab/nanotatoR) - [tutorial](https://github.com/VilainLab/nanotatoR)
 * [2022 StructuralVariantAnnotation: a R/Bioconductor foundation for a caller-agnostic structural variant software ecosystem](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac042/6522107?login=false)
+* [2022 Annotation of structural variants with reported allele frequencies and related metrics from multiple datasets using SVAFotate](https://www.biorxiv.org/content/10.1101/2022.06.09.495527v1)
 
 ## Visualization
 * [CNVgram: Draw CNV diagrams](https://github.com/cc2qe/cnvgram)
