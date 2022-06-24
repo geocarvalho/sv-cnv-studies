@@ -50,6 +50,7 @@ Relevant studies with Structual Variants and Copy Number Variants in NGS (Genome
 * [2018 Assessment of the incorporation of CNV surveillance into gene panel next-generation sequencing testing for inherited retinal diseases](https://jmg.bmj.com/content/55/2/114)
 * [2018 Rare Copy Number Variations and Predictors in Children With Intellectual Disability and Epilepsy](https://www.frontiersin.org/articles/10.3389/fneur.2018.00947/full)
 * [2018 Whole-genome sequencing analysis of CNV using low-coverage and paired-end strategies is efficient and outperforms array-based CNV analysis](https://jmg.bmj.com/content/55/11/735)
+* [2019 Evaluation of computational genotyping of structural variation for clinical diagnoses](https://academic.oup.com/gigascience/article/8/9/giz110/5565134)
 * [2019 Adapting ACMG/AMP sequence variant classification guidelines for single-gene copy number variants](https://www.nature.com/articles/s41436-019-0655-2)
 * [2019 Technical standards for the interpretation and reporting of constitutional copy-number variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics (ACMG) and the Clinical Genome Resource (ClinGen)](https://www.nature.com/articles/s41436-019-0686-8)
 * [2019 A robust benchmark for germline structural variant detection](https://www.biorxiv.org/content/10.1101/664623v3)
@@ -80,6 +81,7 @@ of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanal
 * [2021 Jasmine: Population-scale structural variant comparison and analysis](https://www.biorxiv.org/content/10.1101/2021.05.27.445886v1)
 * [2021 PRINCESS: comprehensive detection of haplotype resolved SNVs, SVs, and methylation](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02486-w) - [github](https://github.com/MeHelmy/princess)
 * [2021 Long-read sequencing of 3,622 Icelanders provides insight into the role of structural variants in human diseases and other traits](https://www.nature.com/articles/s41588-021-00865-4)
+* [2022 Detecting structural variations with precise breakpoints using low-depth WGS data from a single oxford nanopore MinION flowcell](https://www.nature.com/articles/s41598-022-08576-4)
 
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
@@ -156,6 +158,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2021 Mako: a graph-based pattern growth approach to detect complex structural variants](https://www.biorxiv.org/content/10.1101/2021.03.01.433465v1.full) - [github](https://github.com/jiadong324/Mako)
 * [2021 A comparison of tools for copy-number variation detection in germline whole exome and whole genome sequencing data](https://www.biorxiv.org/content/10.1101/2021.04.30.442110v1.full)
 * [2021 Population-scale detection of non-reference sequence variants using colored de Bruijn graphs](https://academic.oup.com/bioinformatics/article/38/3/604/6415820)
+* [2021 PanSVR: Pan-Genome Augmented Short Read Realignment for Sensitive Detection of Structural Variations](https://www.frontiersin.org/articles/10.3389/fgene.2021.731515/full)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
@@ -216,6 +219,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2016 Prioritisation of Structural Variant Calls in Cancer Genomes](http://biorxiv.org/content/early/2016/11/04/084640) - [github](https://github.com/AstraZeneca-NGS/simple_sv_annotation)
 * [2016 cnvScan: a CNV screening and annotation tool to improve the clinical utility of computational CNV prediction from exome sequencing data](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2374-2)
 * [2017 Annotation Education Series: CNV Annotations](http://blog.goldenhelix.com/dkammeraad/annotation-education-series-final-chapter-cnv-annotations/)
+* [2017 Tools for annotation and comparison of structural variation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5668921/)
 * [2018 AnnotSV: an integrated tool for structural variations annotation](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty304/4970516?redirectedFrom=fulltext) - [website](http://www.lbgi.fr/AnnotSV/)
 * [2018 VarAFT: a variant annotation and filtration system for human next generation sequencing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030844/)
 * [2019 An open resource of structural variation for medical and population genetics](https://www.biorxiv.org/content/10.1101/578674v1)
