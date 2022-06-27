@@ -82,6 +82,7 @@ of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanal
 * [2021 PRINCESS: comprehensive detection of haplotype resolved SNVs, SVs, and methylation](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02486-w) - [github](https://github.com/MeHelmy/princess)
 * [2021 Long-read sequencing of 3,622 Icelanders provides insight into the role of structural variants in human diseases and other traits](https://www.nature.com/articles/s41588-021-00865-4)
 * [2022 Detecting structural variations with precise breakpoints using low-depth WGS data from a single oxford nanopore MinION flowcell](https://www.nature.com/articles/s41598-022-08576-4)
+* [2022 Structural Variant Detection from Long-Read Sequencing Data with cuteSV](https://link.springer.com/protocol/10.1007/978-1-0716-2293-3_9)
 
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
