@@ -67,6 +67,7 @@ of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanal
 
 
 ## Long read
+* [2014 DNA copy number analysis of fresh and formalin-fixed specimens by shallow whole-genome sequencing with identification and exclusion of problematic regions in the genome assembly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4248318/) - [github](https://github.com/ccagc/QDNAseq)
 * [2017 Mapping and phasing of structural variation in patient genomes using nanopore sequencing](https://www.nature.com/articles/s41467-017-01343-4) - [github](https://github.com/mroosmalen/nanosv)
 * [2018 NextSV: a meta-caller for structural variants from low-coverage long-read sequencing data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2207-1)
 * [2019 Structural variants identified by Oxford Nanopore PromethION sequencing of the human genome](https://genome.cshlp.org/content/29/7/1178.short) - [github](https://github.com/fritzsedlazeck/Sniffles)
