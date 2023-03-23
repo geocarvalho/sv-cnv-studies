@@ -212,6 +212,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2018 CaSpER: Identification, visualization and integrative analysis of CNV events in multiscale resolution using single-cell or bulk RNA sequencing data](https://www.biorxiv.org/content/early/2018/09/26/426122)
 * [2018 CNVkit-RNA: Copy number inference from RNA-Sequencing data](https://www.biorxiv.org/content/early/2018/09/04/408534?rss=1) - [youtube tutorial](https://www.youtube.com/watch?v=JGOIXYoLG6w&feature=youtu.be)
 * [2020 Detecting copy number alterations in RNA-Seq using SuperFreq](https://www.biorxiv.org/content/10.1101/2020.05.31.126888v1.abstract)
+* [2022 RNAseqCNV: analysis of large-scale copy number variations from RNA-seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9177690/)
 
 ## Annotation
 * [SVTK - Utilities for consolidating, filtering, resolving, and annotating structural variants](https://github.com/talkowski-lab/svtk)
@@ -238,11 +239,14 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [CNView](https://github.com/RCollins13/CNView): Visualization, quantitation, and annotation of CNVs from population-scale whole-genome sequencing data.
 * [2015 svviz: a read viewer for validating structural variants](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btv478) - [github](https://github.com/svviz/svviz)
 * [2016 Ribbon: Visualizing complex genome alignments and structural variation](http://biorxiv.org/content/early/2016/10/20/082123) - [github](https://github.com/MariaNattestad/Ribbon)
+* [2018 AnnotSV: an integrated tool for structural variations annotation](https://academic.oup.com/bioinformatics/article/34/20/3572/4970516)
 * [2018 SV-plaudit: A cloud-based framework for manually curating thousands of structural variants](https://academic.oup.com/gigascience/article/7/7/giy064/5026174) - [github](https://github.com/jbelyeu/SV-plaudit)
 * [New Genome Browser (NGB) is a Web client-server tool that has been developed with the several key distinctive features in mind](https://github.com/epam/NGB)
 * [2020 Learning What a Good Structural Variant Looks Like](https://www.biorxiv.org/content/10.1101/2020.05.22.111260v1) - [samplot github](https://github.com/ryanlayer/samplot)
 * [2020 A crowdsourced set of curated structural variants for the human genome](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007933) - [SVCurator](http://www.svcurator.com/)
 * [2021 Samplot: a platform for structural variant visual validation and automated filtering](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02380-5)
+* [2021 AnnotSV and knotAnnotSV: a web server for human structural variations annotations, ranking and analysis](https://academic.oup.com/nar/article/49/W1/W21/6281473)
+* [2021 ClinSV: clinical grade structural and copy number variant detection from whole genome sequencing data](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00841-x) -[github](https://github.com/KCCG/ClinSV)
 
 ## Orchestrators
 * [CNV-patissier github](https://github.com/stefpiatek/cnv-patissier)
