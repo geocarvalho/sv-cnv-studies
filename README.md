@@ -247,6 +247,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2021 Samplot: a platform for structural variant visual validation and automated filtering](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02380-5)
 * [2021 AnnotSV and knotAnnotSV: a web server for human structural variations annotations, ranking and analysis](https://academic.oup.com/nar/article/49/W1/W21/6281473)
 * [2021 ClinSV: clinical grade structural and copy number variant detection from whole genome sequencing data](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00841-x) -[github](https://github.com/KCCG/ClinSV)
+* [2022 Annotation of structural variants with reported allele frequencies and related metrics from multiple datasets using SVAFotate](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05008-y) - [github](https://github.com/fakedrtom/SVAFotate)
 
 ## Orchestrators
 * [CNV-patissier github](https://github.com/stefpiatek/cnv-patissier)
