@@ -84,6 +84,8 @@ of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanal
 * [2021 Long-read sequencing of 3,622 Icelanders provides insight into the role of structural variants in human diseases and other traits](https://www.nature.com/articles/s41588-021-00865-4)
 * [2022 Detecting structural variations with precise breakpoints using low-depth WGS data from a single oxford nanopore MinION flowcell](https://www.nature.com/articles/s41598-022-08576-4)
 * [2022 Structural Variant Detection from Long-Read Sequencing Data with cuteSV](https://link.springer.com/protocol/10.1007/978-1-0716-2293-3_9)
+* [2022 SVision: a deep learning approach to resolve complex structural variants](https://www.nature.com/articles/s41592-022-01609-w)
+* [2022 SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads](https://www.nature.com/articles/s41592-022-01674-1)
 
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
@@ -161,6 +163,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2021 A comparison of tools for copy-number variation detection in germline whole exome and whole genome sequencing data](https://www.biorxiv.org/content/10.1101/2021.04.30.442110v1.full)
 * [2021 Population-scale detection of non-reference sequence variants using colored de Bruijn graphs](https://academic.oup.com/bioinformatics/article/38/3/604/6415820)
 * [2021 PanSVR: Pan-Genome Augmented Short Read Realignment for Sensitive Detection of Structural Variations](https://www.frontiersin.org/articles/10.3389/fgene.2021.731515/full)
+* [2023 Cue: a deep-learning framework for structural variant discovery and genotyping](https://www.nature.com/articles/s41592-023-01799-x)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
