@@ -66,7 +66,7 @@ of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanal
 * [2020 Mapping and characterization of structural variation in 17,795 human genomes](https://www.nature.com/articles/s41586-020-2371-0)
 * [2020 A structural variation reference for medical and population genetics](https://www.nature.com/articles/s41586-020-2287-8)
 * [2020 Comparative study of whole exome sequencing-based copy number variation detection tools](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3421-1#Sec20)
-
+* [2022 A comprehensive benchmarking of WGS-based deletion structural variant callers](https://academic.oup.com/bib/article/23/4/bbac221/6618239)
 
 ## Long read
 * [2014 DNA copy number analysis of fresh and formalin-fixed specimens by shallow whole-genome sequencing with identification and exclusion of problematic regions in the genome assembly](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4248318/) - [github](https://github.com/ccagc/QDNAseq)
