@@ -237,6 +237,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2021 AutoCNV: a semiautomatic CNV interpretation system based on the 2019 ACMG/ClinGen Technical Standards for CNVs](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08011-4) - [github](https://github.com/zhonghua-wang/autocnv)
 * [2022 StructuralVariantAnnotation: a R/Bioconductor foundation for a caller-agnostic structural variant software ecosystem](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac042/6522107?login=false)
 * [2022 Annotation of structural variants with reported allele frequencies and related metrics from multiple datasets using SVAFotate](https://www.biorxiv.org/content/10.1101/2022.06.09.495527v1)
+* [2022 Truvari: refined structural variant comparison preserves allelic diversity](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02840-6) - [github](https://github.com/ACEnglish/truvari)
 
 ## Visualization
 * [CNVgram: Draw CNV diagrams](https://github.com/cc2qe/cnvgram)
@@ -277,10 +278,11 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2018 Detection of de novo copy number deletions from targeted sequencing of trios](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty677/5064107)
 * [2018 Bamgineer: Introduction of simulated allele-specific copy number variants into exome and targeted sequence data sets](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006080) - [github](https://github.com/pughlab/bamgineer)
 * [2018 Copy-number variants in clinical genome sequencing: deployment and interpretation for rare and undiagnosed disease](https://www.nature.com/articles/s41436-018-0295-y)
+* [2018 FusorSV: an algorithm for optimally combining data from multiple structural variation detection methods](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1404-6) - [github](https://github.com/timothyjamesbecker/FusorSV)
 * [ThousandVariantCallersRepo](https://github.com/deaconjs/ThousandVariantCallersRepo)
 * [2020 VISOR: a versatile haplotype-aware structural variant simulator for short- and long-read sequencing](https://academic.oup.com/bioinformatics/article-abstract/36/4/1267/5582674?redirectedFrom=fulltext)
 * [2020 SECNVs: A Simulator of Copy Number Variants and Whole-Exome Sequences From Reference Genomes](https://www.frontiersin.org/articles/10.3389/fgene.2020.00082/full)
-* [SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - is a tool set for simulating/evaluating SVs, merging and comparing SVs within and among samples, and includes various methods to reformat or summarize SVs.
+* [SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR) - is a toolset for simulating/evaluating SVs, merging and comparing SVs within and among samples, and includes various methods to reformat or summarize SVs.
 * [EvalSVcallers](https://github.com/stat-lab/EvalSVcallers)
 * [svimmer - SV merging tool](https://github.com/DecodeGenetics/svimmer)
 * [High-confidence structural variant calls for RM8398](https://groups.google.com/forum/#!msg/genome-in-a-bottle/v3EDUgZT0Xo/eGYsQlJk2JMJ)
