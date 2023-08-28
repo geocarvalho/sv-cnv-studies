@@ -189,6 +189,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2019 Atlas-CNV: a validated approach to call single-exon CNVs in the eMERGESeq gene panel](https://www.nature.com/articles/s41436-019-0475-4)
 * [2020 A highly sensitive and specific workflow for detecting rare copy-number variants from exome sequencing data](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-0712-0)
 * [2021 Benchmarking germline CNV calling tools from exome sequencing data](https://www.nature.com/articles/s41598-021-93878-2)
+* [2023 GATK-gCNV enables the discovery of rare copy number variants from exome sequencing data](https://www.nature.com/articles/s41588-023-01449-0)
 
 ## AS 
 * [2012 A robust model for read count data in exome sequencing experiments and implications for copy number variant calling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476336/)
