@@ -166,6 +166,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2021 Population-scale detection of non-reference sequence variants using colored de Bruijn graphs](https://academic.oup.com/bioinformatics/article/38/3/604/6415820)
 * [2021 PanSVR: Pan-Genome Augmented Short Read Realignment for Sensitive Detection of Structural Variations](https://www.frontiersin.org/articles/10.3389/fgene.2021.731515/full)
 * [2023 Cue: a deep-learning framework for structural variant discovery and genotyping](https://www.nature.com/articles/s41592-023-01799-x)
+* [2023 Jasmine and Iris: population-scale structural variant comparison and analysis](https://www.nature.com/articles/s41592-022-01753-3)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
