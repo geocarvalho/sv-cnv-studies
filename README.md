@@ -89,6 +89,7 @@ of boundaries and allele sequences ambiguous.](https://github.com/nhansen/SVanal
 * [2022 Structural Variant Detection from Long-Read Sequencing Data with cuteSV](https://link.springer.com/protocol/10.1007/978-1-0716-2293-3_9)
 * [2022 SVision: a deep learning approach to resolve complex structural variants](https://www.nature.com/articles/s41592-022-01609-w)
 * [2022 SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads](https://www.nature.com/articles/s41592-022-01674-1)
+* [2024 Sawfish: Improving long-read structural variant discovery and genotyping with local haplotype modeling](https://www.biorxiv.org/content/10.1101/2024.08.19.608674v1) - [GitHub](https://github.com/PacificBiosciences/sawfish?tab=readme-ov-file)
 
 ## WGS
 * [FindSV](https://github.com/J35P312/FindSV): FindSV is a structural variation pipeline written in nextflow and python. FindSV performs variant calling using TIDDIT and CNVnator, and Manta.
@@ -168,6 +169,7 @@ SMNCopyNumberCaller github](https://github.com/Illumina/SMNCopyNumberCaller)
 * [2021 PanSVR: Pan-Genome Augmented Short Read Realignment for Sensitive Detection of Structural Variations](https://www.frontiersin.org/articles/10.3389/fgene.2021.731515/full)
 * [2023 Cue: a deep-learning framework for structural variant discovery and genotyping](https://www.nature.com/articles/s41592-023-01799-x)
 * [2023 Jasmine and Iris: population-scale structural variant comparison and analysis](https://www.nature.com/articles/s41592-022-01753-3)
+* [2024 VizCNV: An integrated platform for concurrent phased BAF and CNV analysis with trio genome sequencing data](https://www.biorxiv.org/content/10.1101/2024.10.27.620363v1) - [GitHub](https://github.com/BCM-Lupskilab/VizCNV)
 
 ## WES
 * [2012 Copy number variation detection and genotyping from exome sequence data](https://genome.cshlp.org/content/22/8/1525)
